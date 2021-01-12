@@ -1,10 +1,10 @@
-Anotherscryptcoin
+AnotherScryptCoin
 =====================================
 
-What is Anotherscryptcoin?
+What is AnotherScryptCoin?
 ----------------
 
-Anotherscryptcoin is exactly what it says it is, It's based off of Litecoin and is slightly "faster". This is mostly just a fun project.
+AnotherScryptCoin is exactly what it says it is, It's based off of Litecoin (source 0.18) and is slightly "faster". This is mostly just a fun project. Many things likely still say "Litecoin" in docs and other areas.
 
 License
 -------
