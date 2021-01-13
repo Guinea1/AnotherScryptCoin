@@ -555,10 +555,10 @@ void SetupServerArgs()
 
 std::string LicenseInfo()
 {
-    const std::string URL_SOURCE_CODE = "<https://github.com/anotherscryptcoin-project/anotherscryptcoin>";
-    const std::string URL_WEBSITE = "<https://anotherscryptcoin.org>";
+    const std::string URL_SOURCE_CODE = "<https://github.com/Guinea1/AnotherScryptCoin>";
+    const std::string URL_WEBSITE = "<https://github.com/Guinea1/AnotherScryptCoin>";
 
-    return CopyrightHolders(strprintf(_("Copyright (C) %i-%i"), 2011, COPYRIGHT_YEAR) + " ") + "\n" +
+    return CopyrightHolders(strprintf(_("Copyright (C) %i-%i"), 2021, COPYRIGHT_YEAR) + " ") + "\n" +
            "\n" +
            strprintf(_("Please contribute if you find %s useful. "
                        "Visit %s for further information about the software."),

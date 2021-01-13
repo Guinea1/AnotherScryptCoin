@@ -45,7 +45,7 @@ QString BitcoinUnits::longName(int unit)
     case BTC: return QString("ASC");
     case mBTC: return QString("bytes");
     case uBTC: return QString("bits");
-    case SAT: return QString("litoshi");
+    case SAT: return QString("atom");
     default: return QString("???");
     }
 }
