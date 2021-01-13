@@ -555,11 +555,13 @@ void SetupServerArgs()
 
 std::string LicenseInfo()
 {
-    const std::string URL_SOURCE_CODE = "<https://github.com/Guinea1/AnotherScryptCoin>";
-    const std::string URL_WEBSITE = "<https://github.com/Guinea1/AnotherScryptCoin>";
+    const std::string URL_SOURCE_CODE = "<https://github.com/guinea1/anotherscryptcoin>";
+    const std::string URL_WEBSITE = "<https://github.com/guinea1/anotherscryptcoin>";
+    const std::string COPYRIGHT_TEXT1 = "Copyright (C) " + std::to_string(COPYRIGHT_YEAR) + " The " + PACKAGE_NAME + " Developers";
+    const std::string COPYRIGHT_TEXT2 = "Copyright (C) " + std::string("2009-") + std::to_string(COPYRIGHT_YEAR) + " The Bitcoin Core Developers";
 
-    return CopyrightHolders(strprintf(_("Copyright (C) %i-%i"), 2021, COPYRIGHT_YEAR) + " ") + "\n" +
-           "\n" +
+    return strprintf(_("%s"), COPYRIGHT_TEXT1) + "\n" + strprintf(_("%s"), COPYRIGHT_TEXT2) +
+           "\n" + "\n" +
            strprintf(_("Please contribute if you find %s useful. "
                        "Visit %s for further information about the software."),
                PACKAGE_NAME, URL_WEBSITE) +
