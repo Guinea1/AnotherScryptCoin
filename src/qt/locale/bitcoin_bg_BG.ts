@@ -62,12 +62,12 @@
         <translation>Адрес за получаване</translation>
     </message>
     <message>
-        <source>These are your Anotherscryptcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Тези са вашите Anotherscryptcoin адреси за изпращане на монети. Винаги проверявайте количеството и получаващия адрес преди изпращане. </translation>
+        <source>These are your AnotherScryptCoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Тези са вашите AnotherScryptCoin адреси за изпращане на монети. Винаги проверявайте количеството и получаващия адрес преди изпращане. </translation>
     </message>
     <message>
-        <source>These are your Anotherscryptcoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Това са вашите Anotherscryptcoin адреси за получаване на монети. Препоръчително е да ползвате нов адрес на всяка транзакция.</translation>
+        <source>These are your AnotherScryptCoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Това са вашите AnotherScryptCoin адреси за получаване на монети. Препоръчително е да ползвате нов адрес на всяка транзакция.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -881,8 +881,8 @@
 <context>
     <name>bitcoin-core</name>
     <message>
-        <source>Anotherscryptcoin Core</source>
-        <translation>Anotherscryptcoin ядро</translation>
+        <source>AnotherScryptCoin Core</source>
+        <translation>AnotherScryptCoin ядро</translation>
     </message>
     <message>
         <source>Information</source>

@@ -122,8 +122,8 @@
         <translation>&amp;Alilan ing Passphrase...</translation>
     </message>
     <message>
-        <source>Send coins to a Anotherscryptcoin address</source>
-        <translation>Magpadalang barya king Anotherscryptcoin address</translation>
+        <source>Send coins to a AnotherScryptCoin address</source>
+        <translation>Magpadalang barya king AnotherScryptCoin address</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -146,8 +146,8 @@
         <translation>&amp;Beripikan ing message...</translation>
     </message>
     <message>
-        <source>Anotherscryptcoin</source>
-        <translation>Anotherscryptcoin</translation>
+        <source>AnotherScryptCoin</source>
+        <translation>AnotherScryptCoin</translation>
     </message>
     <message>
         <source>&amp;Show / Hide</source>
@@ -281,8 +281,8 @@
         <translation>Malaus ka</translation>
     </message>
     <message>
-        <source>Anotherscryptcoin</source>
-        <translation>Anotherscryptcoin</translation>
+        <source>AnotherScryptCoin</source>
+        <translation>AnotherScryptCoin</translation>
     </message>
     <message>
         <source>Error</source>
@@ -318,8 +318,8 @@
         <translation>&amp;Network</translation>
     </message>
     <message>
-        <source>Automatically open the Anotherscryptcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Ibuklat yang antimanu ing Anotherscryptcoin client port king router. Gagana yamu ini istung ing router mu susuporta yang UPnP at magsilbi ya.</translation>
+        <source>Automatically open the AnotherScryptCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Ibuklat yang antimanu ing AnotherScryptCoin client port king router. Gagana yamu ini istung ing router mu susuporta yang UPnP at magsilbi ya.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -397,8 +397,8 @@
         <translation>Form</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Anotherscryptcoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Ing makaltong impormasion mapalyaring luma ne. Ing kekang wallet otomatiku yang mag-synchronize keng Anotherscryptcoin network istung mekakonekta ne king network, oneng ing prosesung ini ali ya pa kumpletu.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the AnotherScryptCoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Ing makaltong impormasion mapalyaring luma ne. Ing kekang wallet otomatiku yang mag-synchronize keng AnotherScryptCoin network istung mekakonekta ne king network, oneng ing prosesung ini ali ya pa kumpletu.</translation>
     </message>
     <message>
         <source>Your current spendable balance</source>
@@ -659,8 +659,8 @@
         <translation>Kopyan ing kasalungsungan pirma king system clipboard</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Anotherscryptcoin address</source>
-        <translation>Pirman ing mensayi ban patune na keka ya ining Anotherscryptcoin address</translation>
+        <source>Sign the message to prove you own this AnotherScryptCoin address</source>
+        <translation>Pirman ing mensayi ban patune na keka ya ining AnotherScryptCoin address</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -679,8 +679,8 @@
         <translation>&amp;Beripikan ing Mensayi</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Anotherscryptcoin address</source>
-        <translation>Beripikan ing mensayi ban asiguradu a me pirma ya ini gamit ing mepiling Anotherscryptcoin address</translation>
+        <source>Verify the message to ensure it was signed with the specified AnotherScryptCoin address</source>
+        <translation>Beripikan ing mensayi ban asiguradu a me pirma ya ini gamit ing mepiling AnotherScryptCoin address</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
@@ -735,8 +735,8 @@
 <context>
     <name>bitcoin-core</name>
     <message>
-        <source>Anotherscryptcoin Core</source>
-        <translation>Kapilubluban ning Anotherscryptcoin</translation>
+        <source>AnotherScryptCoin Core</source>
+        <translation>Kapilubluban ning AnotherScryptCoin</translation>
     </message>
     <message>
         <source>Corrupted block database detected</source>

@@ -62,12 +62,12 @@
         <translation>Ontvang adresse</translation>
     </message>
     <message>
-        <source>These are your Anotherscryptcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Dit is jou Anotherscryptcoin-adresse vir die stuur van betalings. Kontroleer altyd die bedrag en die ontvangsadres voordat u munte stuur.</translation>
+        <source>These are your AnotherScryptCoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Dit is jou AnotherScryptCoin-adresse vir die stuur van betalings. Kontroleer altyd die bedrag en die ontvangsadres voordat u munte stuur.</translation>
     </message>
     <message>
-        <source>These are your Anotherscryptcoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Dit is jou Anotherscryptcoin-adresse vir die stuur van betalings. Kontroleer altyd die bedrag en die ontvangsadres voordat jy munte stuur.</translation>
+        <source>These are your AnotherScryptCoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Dit is jou AnotherScryptCoin-adresse vir die stuur van betalings. Kontroleer altyd die bedrag en die ontvangsadres voordat jy munte stuur.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -326,8 +326,8 @@
         <translation>Herindekseer blokke op skyf...</translation>
     </message>
     <message>
-        <source>Send coins to a Anotherscryptcoin address</source>
-        <translation>Stuur muntstukke na 'n Anotherscryptcoin adres</translation>
+        <source>Send coins to a AnotherScryptCoin address</source>
+        <translation>Stuur muntstukke na 'n AnotherScryptCoin adres</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -350,8 +350,8 @@
         <translation>&amp;Verifieer boodskap...</translation>
     </message>
     <message>
-        <source>Anotherscryptcoin</source>
-        <translation>Anotherscryptcoin</translation>
+        <source>AnotherScryptCoin</source>
+        <translation>AnotherScryptCoin</translation>
     </message>
     <message>
         <source>&amp;Send</source>
@@ -374,12 +374,12 @@
         <translation>Versleutel die private sleutels wat aan u beursie behoort</translation>
     </message>
     <message>
-        <source>Sign messages with your Anotherscryptcoin addresses to prove you own them</source>
-        <translation>Teken boodskappe met u Anotherscryptcoin adresse om te bewys dat u hul besit</translation>
+        <source>Sign messages with your AnotherScryptCoin addresses to prove you own them</source>
+        <translation>Teken boodskappe met u AnotherScryptCoin adresse om te bewys dat u hul besit</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Anotherscryptcoin addresses</source>
-        <translation>Bevestig boodskappe om te verseker dat hulle geteken was met gespesifiseerde Anotherscryptcoin adresse</translation>
+        <source>Verify messages to ensure they were signed with specified AnotherScryptCoin addresses</source>
+        <translation>Bevestig boodskappe om te verseker dat hulle geteken was met gespesifiseerde AnotherScryptCoin adresse</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -454,8 +454,8 @@
         <translation>Op datum</translation>
     </message>
     <message>
-        <source>Show the %1 help message to get a list with possible Anotherscryptcoin command-line options</source>
-        <translation>Wys die %1 hulpboodskap om 'n lys met moontlike Anotherscryptcoin bevel-lyn opsies te verkry</translation>
+        <source>Show the %1 help message to get a list with possible AnotherScryptCoin command-line options</source>
+        <translation>Wys die %1 hulpboodskap om 'n lys met moontlike AnotherScryptCoin bevel-lyn opsies te verkry</translation>
     </message>
     <message>
         <source>&amp;Window</source>
@@ -528,8 +528,8 @@
         <translation>Beursie is &lt;b&gt;versleutel&lt;/b&gt; en is tans &lt;b&gt;gesluit&lt;/b&gt;</translation>
     </message>
     <message>
-        <source>A fatal error occurred. Anotherscryptcoin can no longer continue safely and will quit.</source>
-        <translation>'n Noodlottige fout het voorgekom. Anotherscryptcoin kan nie langer voortgaan nie en sal afsluit.</translation>
+        <source>A fatal error occurred. AnotherScryptCoin can no longer continue safely and will quit.</source>
+        <translation>'n Noodlottige fout het voorgekom. AnotherScryptCoin kan nie langer voortgaan nie en sal afsluit.</translation>
     </message>
 </context>
 <context>
@@ -718,8 +718,8 @@
         <translation>Wysig stuurende adres</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Anotherscryptcoin address.</source>
-        <translation>Die ingeskrewe adres "%1" is nie 'n geldige Anotherscryptcoin adres nie.</translation>
+        <source>The entered address "%1" is not a valid AnotherScryptCoin address.</source>
+        <translation>Die ingeskrewe adres "%1" is nie 'n geldige AnotherScryptCoin adres nie.</translation>
     </message>
     <message>
         <source>Could not unlock wallet.</source>
@@ -783,8 +783,8 @@
         <translation>Welkom by %1.</translation>
     </message>
     <message>
-        <source>Anotherscryptcoin</source>
-        <translation>Anotherscryptcoin</translation>
+        <source>AnotherScryptCoin</source>
+        <translation>AnotherScryptCoin</translation>
     </message>
     <message>
         <source>The wallet will also be stored in this directory.</source>

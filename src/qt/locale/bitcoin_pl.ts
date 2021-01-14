@@ -66,12 +66,12 @@
         <translation>Adresy odbioru</translation>
     </message>
     <message>
-        <source>These are your Anotherscryptcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Tutaj znajdują się adresy Anotherscryptcoin na które wysyłasz płatności. Zawsze sprawdzaj ilość i adres odbiorcy przed wysyłką monet.</translation>
+        <source>These are your AnotherScryptCoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Tutaj znajdują się adresy AnotherScryptCoin na które wysyłasz płatności. Zawsze sprawdzaj ilość i adres odbiorcy przed wysyłką monet.</translation>
     </message>
     <message>
-        <source>These are your Anotherscryptcoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>To są twoje adresy Anotherscryptcoin do odbierania płatności. Zaleca się używanie nowych adresów odbiorczych dla każdej transakcji.</translation>
+        <source>These are your AnotherScryptCoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>To są twoje adresy AnotherScryptCoin do odbierania płatności. Zaleca się używanie nowych adresów odbiorczych dla każdej transakcji.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -342,7 +342,7 @@
         <translation>Proxy jest &lt;b&gt;włączone&lt;/b&gt;: %1</translation>
     </message>
     <message>
-        <source>Send coins to a Anotherscryptcoin address</source>
+        <source>Send coins to a AnotherScryptCoin address</source>
         <translation>Wyślij monety na adres anotherscryptcoinowy</translation>
     </message>
     <message>
@@ -366,8 +366,8 @@
         <translation>&amp;Zweryfikuj wiadomość...</translation>
     </message>
     <message>
-        <source>Anotherscryptcoin</source>
-        <translation>Anotherscryptcoin</translation>
+        <source>AnotherScryptCoin</source>
+        <translation>AnotherScryptCoin</translation>
     </message>
     <message>
         <source>&amp;Send</source>
@@ -390,11 +390,11 @@
         <translation>Szyfruj klucze prywatne, które są w twoim portfelu</translation>
     </message>
     <message>
-        <source>Sign messages with your Anotherscryptcoin addresses to prove you own them</source>
+        <source>Sign messages with your AnotherScryptCoin addresses to prove you own them</source>
         <translation>Podpisz wiadomości swoim adresem aby udowodnić jego posiadanie</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Anotherscryptcoin addresses</source>
+        <source>Verify messages to ensure they were signed with specified AnotherScryptCoin addresses</source>
         <translation>Zweryfikuj wiadomość,  aby upewnić się, że została podpisana podanym adresem anotherscryptcoinowym.</translation>
     </message>
     <message>
@@ -434,8 +434,8 @@
         <translation>&amp;Opcje linii komend</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Anotherscryptcoin network</source>
-        <translation><numerusform>%n aktywnych połączeń do sieci Anotherscryptcoin</numerusform><numerusform>%n aktywnych połączeń do sieci Anotherscryptcoin</numerusform><numerusform>%n aktywnych połączeń do sieci Anotherscryptcoin</numerusform><numerusform>%n aktywnych połączeń do sieci Anotherscryptcoin</numerusform></translation>
+        <source>%n active connection(s) to AnotherScryptCoin network</source>
+        <translation><numerusform>%n aktywnych połączeń do sieci AnotherScryptCoin</numerusform><numerusform>%n aktywnych połączeń do sieci AnotherScryptCoin</numerusform><numerusform>%n aktywnych połączeń do sieci AnotherScryptCoin</numerusform><numerusform>%n aktywnych połączeń do sieci AnotherScryptCoin</numerusform></translation>
     </message>
     <message>
         <source>Indexing blocks on disk...</source>
@@ -486,7 +486,7 @@
         <translation>Zamknij Portfel...</translation>
     </message>
     <message>
-        <source>Show the %1 help message to get a list with possible Anotherscryptcoin command-line options</source>
+        <source>Show the %1 help message to get a list with possible AnotherScryptCoin command-line options</source>
         <translation>Pokaż pomoc %1 aby zobaczyć listę wszystkich opcji lnii poleceń.</translation>
     </message>
     <message>
@@ -590,8 +590,8 @@
         <translation>Portfel jest &lt;b&gt;zaszyfrowany&lt;/b&gt; i obecnie &lt;b&gt;zablokowany&lt;/b&gt;</translation>
     </message>
     <message>
-        <source>A fatal error occurred. Anotherscryptcoin can no longer continue safely and will quit.</source>
-        <translation>Wystąpił krytyczny błąd. Anotherscryptcoin nie jest w stanie kontynuować bezpiecznie i zostanie zamknięty.</translation>
+        <source>A fatal error occurred. AnotherScryptCoin can no longer continue safely and will quit.</source>
+        <translation>Wystąpił krytyczny błąd. AnotherScryptCoin nie jest w stanie kontynuować bezpiecznie i zostanie zamknięty.</translation>
     </message>
 </context>
 <context>
@@ -780,8 +780,8 @@
         <translation>Zmień adres wysyłania</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Anotherscryptcoin address.</source>
-        <translation>Wprowadzony adres "%1" nie jest prawidłowym adresem Anotherscryptcoin.</translation>
+        <source>The entered address "%1" is not a valid AnotherScryptCoin address.</source>
+        <translation>Wprowadzony adres "%1" nie jest prawidłowym adresem AnotherScryptCoin.</translation>
     </message>
     <message>
         <source>Address "%1" already exists as a receiving address with label "%2" and so cannot be added as a sending address.</source>
@@ -877,8 +877,8 @@
         <translation>Użyj wybranego folderu dla danych</translation>
     </message>
     <message>
-        <source>Anotherscryptcoin</source>
-        <translation>Anotherscryptcoin</translation>
+        <source>AnotherScryptCoin</source>
+        <translation>AnotherScryptCoin</translation>
     </message>
     <message>
         <source>At least %1 GB of data will be stored in this directory, and it will grow over time.</source>
@@ -889,8 +889,8 @@
         <translation>Około %1 GB danych zostanie zapisane w tym katalogu.</translation>
     </message>
     <message>
-        <source>%1 will download and store a copy of the Anotherscryptcoin block chain.</source>
-        <translation>%1 pobierze i zapisze lokalnie kopię łańcucha bloków Anotherscryptcoin.</translation>
+        <source>%1 will download and store a copy of the AnotherScryptCoin block chain.</source>
+        <translation>%1 pobierze i zapisze lokalnie kopię łańcucha bloków AnotherScryptCoin.</translation>
     </message>
     <message>
         <source>The wallet will also be stored in this directory.</source>
@@ -1098,8 +1098,8 @@
         <translation>Wydaj niepotwierdzoną re&amp;sztę</translation>
     </message>
     <message>
-        <source>Automatically open the Anotherscryptcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automatycznie otwiera port klienta Anotherscryptcoin na routerze. Ta opcja dzieła tylko jeśli twój router wspiera UPnP i jest ono włączone.</translation>
+        <source>Automatically open the AnotherScryptCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Automatycznie otwiera port klienta AnotherScryptCoin na routerze. Ta opcja dzieła tylko jeśli twój router wspiera UPnP i jest ono włączone.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -1114,8 +1114,8 @@
         <translation>Zezwól na &amp;połączenia przychodzące</translation>
     </message>
     <message>
-        <source>Connect to the Anotherscryptcoin network through a SOCKS5 proxy.</source>
-        <translation>Połącz się z siecią Anotherscryptcoin poprzez proxy SOCKS5.</translation>
+        <source>Connect to the AnotherScryptCoin network through a SOCKS5 proxy.</source>
+        <translation>Połącz się z siecią AnotherScryptCoin poprzez proxy SOCKS5.</translation>
     </message>
     <message>
         <source>&amp;Connect through SOCKS5 proxy (default proxy):</source>
@@ -1150,8 +1150,8 @@
         <translation>Tor</translation>
     </message>
     <message>
-        <source>Connect to the Anotherscryptcoin network through a separate SOCKS5 proxy for Tor hidden services.</source>
-        <translation>Połącz się z siecią Anotherscryptcoin przy pomocy oddzielnego SOCKS5 proxy dla sieci TOR</translation>
+        <source>Connect to the AnotherScryptCoin network through a separate SOCKS5 proxy for Tor hidden services.</source>
+        <translation>Połącz się z siecią AnotherScryptCoin przy pomocy oddzielnego SOCKS5 proxy dla sieci TOR</translation>
     </message>
     <message>
         <source>&amp;Window</source>
@@ -1257,7 +1257,7 @@
         <translation>Formularz</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Anotherscryptcoin network after a connection is established, but this process has not completed yet.</source>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the AnotherScryptCoin network after a connection is established, but this process has not completed yet.</source>
         <translation>Wyświetlana informacja może być nieaktualna. Twój portfel synchronizuje się automatycznie z siecią anotherscryptcoin, zaraz po tym jak uzyskano połączenie, ale proces ten nie został jeszcze ukończony.</translation>
     </message>
     <message>
@@ -1352,8 +1352,8 @@
         <translation>błędny adres płatności %1</translation>
     </message>
     <message>
-        <source>URI cannot be parsed! This can be caused by an invalid Anotherscryptcoin address or malformed URI parameters.</source>
-        <translation>Nie można przeanalizować identyfikatora URI! Może to być spowodowane nieważnym adresem Anotherscryptcoin lub nieprawidłowymi parametrami URI.</translation>
+        <source>URI cannot be parsed! This can be caused by an invalid AnotherScryptCoin address or malformed URI parameters.</source>
+        <translation>Nie można przeanalizować identyfikatora URI! Może to być spowodowane nieważnym adresem AnotherScryptCoin lub nieprawidłowymi parametrami URI.</translation>
     </message>
     <message>
         <source>Payment request file handling</source>
@@ -1454,7 +1454,7 @@
         <translation>Kwota</translation>
     </message>
     <message>
-        <source>Enter a Anotherscryptcoin address (e.g. %1)</source>
+        <source>Enter a AnotherScryptCoin address (e.g. %1)</source>
         <translation>Wprowadź adres anotherscryptcoinowy (np. %1)</translation>
     </message>
     <message>
@@ -1898,8 +1898,8 @@
         <translation>&amp;Wiadomość:</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Anotherscryptcoin network.</source>
-        <translation>Opcjonalna wiadomość do dołączenia do żądania płatności, która będzie wyświetlana, gdy żądanie zostanie otwarte. Uwaga: wiadomość ta nie zostanie wysłana wraz z płatnością w sieci Anotherscryptcoin.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the AnotherScryptCoin network.</source>
+        <translation>Opcjonalna wiadomość do dołączenia do żądania płatności, która będzie wyświetlana, gdy żądanie zostanie otwarte. Uwaga: wiadomość ta nie zostanie wysłana wraz z płatnością w sieci AnotherScryptCoin.</translation>
     </message>
     <message>
         <source>An optional label to associate with the new receiving address.</source>
@@ -2320,8 +2320,8 @@ Uwaga: Ponieważ opłata jest naliczana za każdy bajt, opłata "100 satoshi za 
         <translation><numerusform>Przybliżony czas rozpoczęcia zatwierdzenia: %n blok.</numerusform><numerusform>Przybliżony czas rozpoczęcia zatwierdzenia: %n bloki.</numerusform><numerusform>Przybliżony czas rozpoczęcia zatwierdzenia: %n bloków.</numerusform><numerusform>Przybliżony czas rozpoczęcia zatwierdzenia: %n bloków.</numerusform></translation>
     </message>
     <message>
-        <source>Warning: Invalid Anotherscryptcoin address</source>
-        <translation>Ostrzeżenie: nieprawidłowy adres Anotherscryptcoin</translation>
+        <source>Warning: Invalid AnotherScryptCoin address</source>
+        <translation>Ostrzeżenie: nieprawidłowy adres AnotherScryptCoin</translation>
     </message>
     <message>
         <source>Warning: Unknown change address</source>
@@ -2363,8 +2363,8 @@ Uwaga: Ponieważ opłata jest naliczana za każdy bajt, opłata "100 satoshi za 
         <translation>To jest standardowa płatność</translation>
     </message>
     <message>
-        <source>The Anotherscryptcoin address to send the payment to</source>
-        <translation>Adres Anotherscryptcoin gdzie wysłać płatność</translation>
+        <source>The AnotherScryptCoin address to send the payment to</source>
+        <translation>Adres AnotherScryptCoin gdzie wysłać płatność</translation>
     </message>
     <message>
         <source>Alt+A</source>
@@ -2411,8 +2411,8 @@ Uwaga: Ponieważ opłata jest naliczana za każdy bajt, opłata "100 satoshi za 
         <translation>Wprowadź etykietę dla tego adresu by dodać go do listy użytych adresów</translation>
     </message>
     <message>
-        <source>A message that was attached to the anotherscryptcoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Anotherscryptcoin network.</source>
-        <translation>Wiadomość, która została dołączona do URI anotherscryptcoin:, która będzie przechowywana wraz z transakcją w celach informacyjnych. Uwaga: Ta wiadomość nie będzie rozsyłana w sieci Anotherscryptcoin.</translation>
+        <source>A message that was attached to the anotherscryptcoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the AnotherScryptCoin network.</source>
+        <translation>Wiadomość, która została dołączona do URI anotherscryptcoin:, która będzie przechowywana wraz z transakcją w celach informacyjnych. Uwaga: Ta wiadomość nie będzie rozsyłana w sieci AnotherScryptCoin.</translation>
     </message>
     <message>
         <source>Pay To:</source>
@@ -2460,8 +2460,8 @@ Uwaga: Ponieważ opłata jest naliczana za każdy bajt, opłata "100 satoshi za 
         <translation>Możesz podpisywać wiadomości swoimi adresami aby udowodnić, że jesteś ich właścicielem. Uważaj, aby nie podpisywać niczego co wzbudza Twoje podejrzenia, ponieważ ktoś może stosować phishing próbując nakłonić Cię do ich podpisania. Akceptuj i podpisuj tylko w pełni zrozumiałe komunikaty i wiadomości.</translation>
     </message>
     <message>
-        <source>The Anotherscryptcoin address to sign the message with</source>
-        <translation>Adres Anotherscryptcoin, za pomocą którego podpisać wiadomość</translation>
+        <source>The AnotherScryptCoin address to sign the message with</source>
+        <translation>Adres AnotherScryptCoin, za pomocą którego podpisać wiadomość</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -2492,7 +2492,7 @@ Uwaga: Ponieważ opłata jest naliczana za każdy bajt, opłata "100 satoshi za 
         <translation>Kopiuje aktualny podpis do schowka systemowego</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Anotherscryptcoin address</source>
+        <source>Sign the message to prove you own this AnotherScryptCoin address</source>
         <translation>Podpisz wiadomość aby dowieść, że ten adres jest twój</translation>
     </message>
     <message>
@@ -2517,12 +2517,12 @@ Uwaga: Ponieważ opłata jest naliczana za każdy bajt, opłata "100 satoshi za 
 Zwróć uwagę, że poprawnie zweryfikowana wiadomość potwierdza to, że nadawca posiada klucz do adresu, natomiast nie potwierdza to, że poprawne wysłanie jakiejkolwiek transakcji! </translation>
     </message>
     <message>
-        <source>The Anotherscryptcoin address the message was signed with</source>
-        <translation>Adres Anotherscryptcoin, którym została podpisana wiadomość</translation>
+        <source>The AnotherScryptCoin address the message was signed with</source>
+        <translation>Adres AnotherScryptCoin, którym została podpisana wiadomość</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Anotherscryptcoin address</source>
-        <translation>Zweryfikuj wiadomość,  aby upewnić się, że została podpisana odpowiednim adresem Anotherscryptcoin.</translation>
+        <source>Verify the message to ensure it was signed with the specified AnotherScryptCoin address</source>
+        <translation>Zweryfikuj wiadomość,  aby upewnić się, że została podpisana odpowiednim adresem AnotherScryptCoin.</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
@@ -3177,8 +3177,8 @@ Zwróć uwagę, że poprawnie zweryfikowana wiadomość potwierdza to, że nadaw
         <translation>Uruchomienie serwera HTTP nie powiodło się. Zobacz dziennik debugowania, aby uzyskać więcej szczegółów.</translation>
     </message>
     <message>
-        <source>Anotherscryptcoin Core</source>
-        <translation>Anotherscryptcoin Core</translation>
+        <source>AnotherScryptCoin Core</source>
+        <translation>AnotherScryptCoin Core</translation>
     </message>
     <message>
         <source>The %s developers</source>

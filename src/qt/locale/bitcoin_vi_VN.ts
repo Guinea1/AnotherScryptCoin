@@ -62,12 +62,12 @@
         <translation>Địa chỉ nhận</translation>
     </message>
     <message>
-        <source>These are your Anotherscryptcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Đây là các địa chỉ Anotherscryptcoin để gửi bạn gửi tiền. Trước khi gửi bạn nên kiểm tra lại số tiền bạn muốn gửi và địa chỉ anotherscryptcoin của người nhận.</translation>
+        <source>These are your AnotherScryptCoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Đây là các địa chỉ AnotherScryptCoin để gửi bạn gửi tiền. Trước khi gửi bạn nên kiểm tra lại số tiền bạn muốn gửi và địa chỉ anotherscryptcoin của người nhận.</translation>
     </message>
     <message>
-        <source>These are your Anotherscryptcoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Đây là các địa chỉ Anotherscryptcoin để bạn nhận tiền. Với mỗi giao dịch, bạn nên dùng một địa chỉ Anotherscryptcoin mới để nhận tiền.</translation>
+        <source>These are your AnotherScryptCoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Đây là các địa chỉ AnotherScryptCoin để bạn nhận tiền. Với mỗi giao dịch, bạn nên dùng một địa chỉ AnotherScryptCoin mới để nhận tiền.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -319,8 +319,8 @@ Ví của bạn chưa được mã hóa.</translation>
         <translation>Đánh chỉ số (indexing) lại các khối (blocks) trên ổ đĩa ...</translation>
     </message>
     <message>
-        <source>Send coins to a Anotherscryptcoin address</source>
-        <translation>Gửi coins đến tài khoản Anotherscryptcoin</translation>
+        <source>Send coins to a AnotherScryptCoin address</source>
+        <translation>Gửi coins đến tài khoản AnotherScryptCoin</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -343,8 +343,8 @@ Ví của bạn chưa được mã hóa.</translation>
         <translation>&amp;Tin nhắn xác thực</translation>
     </message>
     <message>
-        <source>Anotherscryptcoin</source>
-        <translation>Anotherscryptcoin</translation>
+        <source>AnotherScryptCoin</source>
+        <translation>AnotherScryptCoin</translation>
     </message>
     <message>
         <source>&amp;Send</source>
@@ -367,12 +367,12 @@ Ví của bạn chưa được mã hóa.</translation>
         <translation>Mã hoá các khoá bí mật trong Ví của bạn.</translation>
     </message>
     <message>
-        <source>Sign messages with your Anotherscryptcoin addresses to prove you own them</source>
-        <translation>Dùng địa chỉ Anotherscryptcoin của bạn ký các tin nhắn để xác minh những nội dung tin nhắn đó là của bạn.</translation>
+        <source>Sign messages with your AnotherScryptCoin addresses to prove you own them</source>
+        <translation>Dùng địa chỉ AnotherScryptCoin của bạn ký các tin nhắn để xác minh những nội dung tin nhắn đó là của bạn.</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Anotherscryptcoin addresses</source>
-        <translation>Kiểm tra các tin nhắn để chắc chắn rằng chúng được ký bằng các địa chỉ Anotherscryptcoin xác định.</translation>
+        <source>Verify messages to ensure they were signed with specified AnotherScryptCoin addresses</source>
+        <translation>Kiểm tra các tin nhắn để chắc chắn rằng chúng được ký bằng các địa chỉ AnotherScryptCoin xác định.</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -392,7 +392,7 @@ Ví của bạn chưa được mã hóa.</translation>
     </message>
     <message>
         <source>Request payments (generates QR codes and anotherscryptcoin: URIs)</source>
-        <translation>Yêu cầu thanh toán(tạo mã QR và địa chỉ Anotherscryptcoin: URLs)</translation>
+        <translation>Yêu cầu thanh toán(tạo mã QR và địa chỉ AnotherScryptCoin: URLs)</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -411,8 +411,8 @@ Ví của bạn chưa được mã hóa.</translation>
         <translation>7Tùy chọn dòng lệnh</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Anotherscryptcoin network</source>
-        <translation><numerusform>%n liên kết hoạt động với mạng lưới Anotherscryptcoin</numerusform></translation>
+        <source>%n active connection(s) to AnotherScryptCoin network</source>
+        <translation><numerusform>%n liên kết hoạt động với mạng lưới AnotherScryptCoin</numerusform></translation>
     </message>
     <message>
         <source>Indexing blocks on disk...</source>
@@ -455,8 +455,8 @@ Ví của bạn chưa được mã hóa.</translation>
         <translation>Đã cập nhật</translation>
     </message>
     <message>
-        <source>Show the %1 help message to get a list with possible Anotherscryptcoin command-line options</source>
-        <translation>Hiển thị tin nhắn trợ giúp %1 để có được danh sách với các tùy chọn dòng lệnh Anotherscryptcoin.</translation>
+        <source>Show the %1 help message to get a list with possible AnotherScryptCoin command-line options</source>
+        <translation>Hiển thị tin nhắn trợ giúp %1 để có được danh sách với các tùy chọn dòng lệnh AnotherScryptCoin.</translation>
     </message>
     <message>
         <source>Connecting to peers...</source>
@@ -620,8 +620,8 @@ Ví của bạn chưa được mã hóa.</translation>
         <translation>Sử dụng vị trí dữ liệu mặc định</translation>
     </message>
     <message>
-        <source>Anotherscryptcoin</source>
-        <translation>Anotherscryptcoin</translation>
+        <source>AnotherScryptCoin</source>
+        <translation>AnotherScryptCoin</translation>
     </message>
     <message>
         <source>Error</source>
@@ -669,8 +669,8 @@ Ví của bạn chưa được mã hóa.</translation>
         <translation>Ví</translation>
     </message>
     <message>
-        <source>Connect to the Anotherscryptcoin network through a SOCKS5 proxy.</source>
-        <translation>Kết nối đến máy chủ Anotherscryptcoin thông qua SOCKS5 proxy.</translation>
+        <source>Connect to the AnotherScryptCoin network through a SOCKS5 proxy.</source>
+        <translation>Kết nối đến máy chủ AnotherScryptCoin thông qua SOCKS5 proxy.</translation>
     </message>
     <message>
         <source>Proxy &amp;IP:</source>
@@ -1182,8 +1182,8 @@ Ví của bạn chưa được mã hóa.</translation>
 <context>
     <name>bitcoin-core</name>
     <message>
-        <source>Anotherscryptcoin Core</source>
-        <translation>Anotherscryptcoin Core</translation>
+        <source>AnotherScryptCoin Core</source>
+        <translation>AnotherScryptCoin Core</translation>
     </message>
     <message>
         <source>Information</source>

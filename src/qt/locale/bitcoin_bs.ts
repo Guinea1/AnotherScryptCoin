@@ -66,12 +66,12 @@
         <translation>Adrese primalaca</translation>
     </message>
     <message>
-        <source>These are your Anotherscryptcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Ovo su vaše Anotherscryptcoin adrese za slanje novca. Uvijek provjerite iznos i adresu primaoca prije slanja novca.</translation>
+        <source>These are your AnotherScryptCoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Ovo su vaše AnotherScryptCoin adrese za slanje novca. Uvijek provjerite iznos i adresu primaoca prije slanja novca.</translation>
     </message>
     <message>
-        <source>These are your Anotherscryptcoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Ovo su vaše Anotherscryptcoin adrese za primanje novca. Preporučljivo je da koristite novu adresu primaoca za svaku transakciju.</translation>
+        <source>These are your AnotherScryptCoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Ovo su vaše AnotherScryptCoin adrese za primanje novca. Preporučljivo je da koristite novu adresu primaoca za svaku transakciju.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -114,8 +114,8 @@
 <context>
     <name>BitcoinGUI</name>
     <message>
-        <source>Anotherscryptcoin</source>
-        <translation>Anotherscryptcoin</translation>
+        <source>AnotherScryptCoin</source>
+        <translation>AnotherScryptCoin</translation>
     </message>
     </context>
 <context>
@@ -133,8 +133,8 @@
 <context>
     <name>Intro</name>
     <message>
-        <source>Anotherscryptcoin</source>
-        <translation>Anotherscryptcoin</translation>
+        <source>AnotherScryptCoin</source>
+        <translation>AnotherScryptCoin</translation>
     </message>
     </context>
 <context>
@@ -279,8 +279,8 @@
 <context>
     <name>bitcoin-core</name>
     <message>
-        <source>Anotherscryptcoin Core</source>
-        <translation>Anotherscryptcoin Jezrga</translation>
+        <source>AnotherScryptCoin Core</source>
+        <translation>AnotherScryptCoin Jezrga</translation>
     </message>
     </context>
 </TS>

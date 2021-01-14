@@ -33,7 +33,7 @@
 #include <memory>
 
 #if defined(NDEBUG)
-# error "Anotherscryptcoin cannot be compiled without assertions."
+# error "AnotherScryptCoin cannot be compiled without assertions."
 #endif
 
 /** Expiration time for orphan transactions in seconds */

@@ -66,12 +66,12 @@
         <translation>Mottager adresser</translation>
     </message>
     <message>
-        <source>These are your Anotherscryptcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Dette er dine Anotherscryptcoin adresser for å sende  å sende betalinger. Husk å sjekke beløp og mottager adresser før du sender mynter.</translation>
+        <source>These are your AnotherScryptCoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Dette er dine AnotherScryptCoin adresser for å sende  å sende betalinger. Husk å sjekke beløp og mottager adresser før du sender mynter.</translation>
     </message>
     <message>
-        <source>These are your Anotherscryptcoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Dette er dine Anotherscryptcoin adresse for å motta betalinger. Det er anbefalt å bruke en ny mottager adresse for hver transaksjon.</translation>
+        <source>These are your AnotherScryptCoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Dette er dine AnotherScryptCoin adresse for å motta betalinger. Det er anbefalt å bruke en ny mottager adresse for hver transaksjon.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -342,8 +342,8 @@
         <translation>Proxy er &lt;b&gt;slått på&lt;/b&gt;: %1</translation>
     </message>
     <message>
-        <source>Send coins to a Anotherscryptcoin address</source>
-        <translation>Send mynter til en Anotherscryptcoin adresse</translation>
+        <source>Send coins to a AnotherScryptCoin address</source>
+        <translation>Send mynter til en AnotherScryptCoin adresse</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -366,8 +366,8 @@
         <translation>&amp;Verifiser meldingen...</translation>
     </message>
     <message>
-        <source>Anotherscryptcoin</source>
-        <translation>Anotherscryptcoin</translation>
+        <source>AnotherScryptCoin</source>
+        <translation>AnotherScryptCoin</translation>
     </message>
     <message>
         <source>&amp;Send</source>
@@ -390,12 +390,12 @@
         <translation>Krypter de private nøklene som tilhører lommeboken din</translation>
     </message>
     <message>
-        <source>Sign messages with your Anotherscryptcoin addresses to prove you own them</source>
-        <translation>Signer meldingene med Anotherscryptcoin adresse for å bevise at diu eier dem</translation>
+        <source>Sign messages with your AnotherScryptCoin addresses to prove you own them</source>
+        <translation>Signer meldingene med AnotherScryptCoin adresse for å bevise at diu eier dem</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Anotherscryptcoin addresses</source>
-        <translation>Verifiser meldinger for å sikre at de ble signert med en angitt Anotherscryptcoin adresse</translation>
+        <source>Verify messages to ensure they were signed with specified AnotherScryptCoin addresses</source>
+        <translation>Verifiser meldinger for å sikre at de ble signert med en angitt AnotherScryptCoin adresse</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -434,8 +434,8 @@
         <translation>&amp;Kommandolinjealternativer</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Anotherscryptcoin network</source>
-        <translation><numerusform>%n aktiv tilkobling til Anotherscryptcoin nettverket</numerusform><numerusform>%n aktive tilkoblinger til Anotherscryptcoin nettverket</numerusform></translation>
+        <source>%n active connection(s) to AnotherScryptCoin network</source>
+        <translation><numerusform>%n aktiv tilkobling til AnotherScryptCoin nettverket</numerusform><numerusform>%n aktive tilkoblinger til AnotherScryptCoin nettverket</numerusform></translation>
     </message>
     <message>
         <source>Indexing blocks on disk...</source>
@@ -486,8 +486,8 @@
         <translation>&amp;Mottaker adresser</translation>
     </message>
     <message>
-        <source>Show the %1 help message to get a list with possible Anotherscryptcoin command-line options</source>
-        <translation>Vis %1-hjelpemeldingen for å få en liste over mulige Anotherscryptcoin-kommandolinjealternativer</translation>
+        <source>Show the %1 help message to get a list with possible AnotherScryptCoin command-line options</source>
+        <translation>Vis %1-hjelpemeldingen for å få en liste over mulige AnotherScryptCoin-kommandolinjealternativer</translation>
     </message>
     <message>
         <source>&amp;Window</source>
@@ -593,8 +593,8 @@
 <context>
     <name>Intro</name>
     <message>
-        <source>Anotherscryptcoin</source>
-        <translation>Anotherscryptcoin</translation>
+        <source>AnotherScryptCoin</source>
+        <translation>AnotherScryptCoin</translation>
     </message>
     <message>
         <source>Error</source>

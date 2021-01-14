@@ -62,12 +62,12 @@
         <translation>Ontvanger adresse</translation>
     </message>
     <message>
-        <source>These are your Anotherscryptcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Hierdie is die adresse vanwaar u Anotherscryptcoin betalings stuur. U moet altyd die bedrag en die adres van die ontvanger nagaan voordat u enige munte stuur.</translation>
+        <source>These are your AnotherScryptCoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Hierdie is die adresse vanwaar u AnotherScryptCoin betalings stuur. U moet altyd die bedrag en die adres van die ontvanger nagaan voordat u enige munte stuur.</translation>
     </message>
     <message>
-        <source>These are your Anotherscryptcoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Hierdie is die adresse waar u Anotherscryptcoins sal ontvang. Ons beveel aan dat u 'n nuwe adres kies vir elke transaksie</translation>
+        <source>These are your AnotherScryptCoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Hierdie is die adresse waar u AnotherScryptCoins sal ontvang. Ons beveel aan dat u 'n nuwe adres kies vir elke transaksie</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -322,8 +322,8 @@
         <translation>Besig met herindeksering van blokke op hardeskyf...</translation>
     </message>
     <message>
-        <source>Send coins to a Anotherscryptcoin address</source>
-        <translation>Stuur munte na 'n Anotherscryptcoin adres</translation>
+        <source>Send coins to a AnotherScryptCoin address</source>
+        <translation>Stuur munte na 'n AnotherScryptCoin adres</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -346,8 +346,8 @@
         <translation>&amp;Verifieer boodskap...</translation>
     </message>
     <message>
-        <source>Anotherscryptcoin</source>
-        <translation>Anotherscryptcoin</translation>
+        <source>AnotherScryptCoin</source>
+        <translation>AnotherScryptCoin</translation>
     </message>
     <message>
         <source>&amp;Send</source>
@@ -370,12 +370,12 @@
         <translation>Kodifiseer die private sleutes wat aan jou beursie gekoppel is.</translation>
     </message>
     <message>
-        <source>Sign messages with your Anotherscryptcoin addresses to prove you own them</source>
-        <translation>Onderteken boodskappe met u Anotherscryptcoin adresse om u eienaarskap te bewys</translation>
+        <source>Sign messages with your AnotherScryptCoin addresses to prove you own them</source>
+        <translation>Onderteken boodskappe met u AnotherScryptCoin adresse om u eienaarskap te bewys</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Anotherscryptcoin addresses</source>
-        <translation>Verifieër boodskappe om seker te maak dat dit met die gespesifiseerde Anotherscryptcoin adresse</translation>
+        <source>Verify messages to ensure they were signed with specified AnotherScryptCoin addresses</source>
+        <translation>Verifieër boodskappe om seker te maak dat dit met die gespesifiseerde AnotherScryptCoin adresse</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -504,8 +504,8 @@
         <translation>Inkomende transaksie</translation>
     </message>
     <message>
-        <source>A fatal error occurred. Anotherscryptcoin can no longer continue safely and will quit.</source>
-        <translation>'N fatale fout het voorgekom. Anotherscryptcoin kan nie meer veilig voortgaan nie en sal nou toemaak.</translation>
+        <source>A fatal error occurred. AnotherScryptCoin can no longer continue safely and will quit.</source>
+        <translation>'N fatale fout het voorgekom. AnotherScryptCoin kan nie meer veilig voortgaan nie en sal nou toemaak.</translation>
     </message>
 </context>
 <context>
@@ -694,8 +694,8 @@
         <translation>Wysig stuur adres</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Anotherscryptcoin address.</source>
-        <translation>Die ingevoerde adres "%1" is nie 'n geldige Anotherscryptcoin adres nie.</translation>
+        <source>The entered address "%1" is not a valid AnotherScryptCoin address.</source>
+        <translation>Die ingevoerde adres "%1" is nie 'n geldige AnotherScryptCoin adres nie.</translation>
     </message>
     <message>
         <source>Could not unlock wallet.</source>
@@ -767,8 +767,8 @@
         <translation>Gebruik 'n persoonlike data gids:</translation>
     </message>
     <message>
-        <source>Anotherscryptcoin</source>
-        <translation>Anotherscryptcoin</translation>
+        <source>AnotherScryptCoin</source>
+        <translation>AnotherScryptCoin</translation>
     </message>
     <message>
         <source>The wallet will also be stored in this directory.</source>
@@ -1120,8 +1120,8 @@
         <translation>Bedrag</translation>
     </message>
     <message>
-        <source>Enter a Anotherscryptcoin address (e.g. %1)</source>
-        <translation>Voer in 'n Anotherscryptcoin adres (bv. %1)</translation>
+        <source>Enter a AnotherScryptCoin address (e.g. %1)</source>
+        <translation>Voer in 'n AnotherScryptCoin adres (bv. %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -1697,8 +1697,8 @@ transaksievertragingsrisiko.</translation>
         <translation>Betalings versoek verstryk.</translation>
     </message>
     <message>
-        <source>Warning: Invalid Anotherscryptcoin address</source>
-        <translation>Waarskuwing: Ongeldige Anotherscryptcoinadres</translation>
+        <source>Warning: Invalid AnotherScryptCoin address</source>
+        <translation>Waarskuwing: Ongeldige AnotherScryptCoinadres</translation>
     </message>
     <message>
         <source>The address you selected for change is not part of this wallet. Any or all funds in your wallet may be sent to this address. Are you sure?</source>
@@ -1730,8 +1730,8 @@ Is u seker?</translation>
         <translation>Hierdie is 'n gewone betaling</translation>
     </message>
     <message>
-        <source>The Anotherscryptcoin address to send the payment to</source>
-        <translation>Die Anotherscryptcoinadres waarheen die betaling gestuur word</translation>
+        <source>The AnotherScryptCoin address to send the payment to</source>
+        <translation>Die AnotherScryptCoinadres waarheen die betaling gestuur word</translation>
     </message>
     <message>
         <source>Alt+A</source>
@@ -2039,8 +2039,8 @@ word die fooi eweredig verdeel.</translation>
 <context>
     <name>bitcoin-core</name>
     <message>
-        <source>Anotherscryptcoin Core</source>
-        <translation>Anotherscryptcoin Kern</translation>
+        <source>AnotherScryptCoin Core</source>
+        <translation>AnotherScryptCoin Kern</translation>
     </message>
     <message>
         <source>Error loading %s</source>

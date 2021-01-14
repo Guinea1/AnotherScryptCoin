@@ -130,8 +130,8 @@
         <translation>Reindexando bloques no disco...</translation>
     </message>
     <message>
-        <source>Send coins to a Anotherscryptcoin address</source>
-        <translation>Enviar moedas a unha dirección Anotherscryptcoin</translation>
+        <source>Send coins to a AnotherScryptCoin address</source>
+        <translation>Enviar moedas a unha dirección AnotherScryptCoin</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -154,8 +154,8 @@
         <translation>&amp;Verificar mensaxe...</translation>
     </message>
     <message>
-        <source>Anotherscryptcoin</source>
-        <translation>Anotherscryptcoin</translation>
+        <source>AnotherScryptCoin</source>
+        <translation>AnotherScryptCoin</translation>
     </message>
     <message>
         <source>&amp;Send</source>
@@ -178,12 +178,12 @@
         <translation>Encriptar as claves privadas que pertencen ao teu moedeiro</translation>
     </message>
     <message>
-        <source>Sign messages with your Anotherscryptcoin addresses to prove you own them</source>
-        <translation>Asina mensaxes coas túas direccións Anotherscryptcoin para probar que te pertencen</translation>
+        <source>Sign messages with your AnotherScryptCoin addresses to prove you own them</source>
+        <translation>Asina mensaxes coas túas direccións AnotherScryptCoin para probar que te pertencen</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Anotherscryptcoin addresses</source>
-        <translation>Verificar mensaxes para asegurar que foron asinados con direccións Anotherscryptcoin dadas.</translation>
+        <source>Verify messages to ensure they were signed with specified AnotherScryptCoin addresses</source>
+        <translation>Verificar mensaxes para asegurar que foron asinados con direccións AnotherScryptCoin dadas.</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -397,8 +397,8 @@
         <translation>Empregar un directorio de datos personalizado</translation>
     </message>
     <message>
-        <source>Anotherscryptcoin</source>
-        <translation>Anotherscryptcoin</translation>
+        <source>AnotherScryptCoin</source>
+        <translation>AnotherScryptCoin</translation>
     </message>
     <message>
         <source>Error</source>
@@ -462,8 +462,8 @@
         <translation>Moedeiro</translation>
     </message>
     <message>
-        <source>Automatically open the Anotherscryptcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Abrir automáticamente o porto do cliente Anotherscryptcoin no router. Esto so funciona se o teu router soporta UPnP e está habilitado.</translation>
+        <source>Automatically open the AnotherScryptCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Abrir automáticamente o porto do cliente AnotherScryptCoin no router. Esto so funciona se o teu router soporta UPnP e está habilitado.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -545,8 +545,8 @@
         <translation>Formulario</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Anotherscryptcoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>A información amosada por estar desactualizada. O teu moedeiro sincronízase automáticamente coa rede Anotherscryptcoin despois de que se estableza unha conexión, pero este proceso non está todavía rematado.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the AnotherScryptCoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>A información amosada por estar desactualizada. O teu moedeiro sincronízase automáticamente coa rede AnotherScryptCoin despois de que se estableza unha conexión, pero este proceso non está todavía rematado.</translation>
     </message>
     <message>
         <source>Your current spendable balance</source>
@@ -919,8 +919,8 @@
         <translation>Copiar a sinatura actual ao portapapeis do sistema</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Anotherscryptcoin address</source>
-        <translation>Asina a mensaxe para probar que posees esta dirección Anotherscryptcoin</translation>
+        <source>Sign the message to prove you own this AnotherScryptCoin address</source>
+        <translation>Asina a mensaxe para probar que posees esta dirección AnotherScryptCoin</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -939,8 +939,8 @@
         <translation>&amp;Verificar Mensaxe</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Anotherscryptcoin address</source>
-        <translation>Verificar a mensaxe para asegurar que foi asinada coa dirección Anotherscryptcoin especificada</translation>
+        <source>Verify the message to ensure it was signed with the specified AnotherScryptCoin address</source>
+        <translation>Verificar a mensaxe para asegurar que foi asinada coa dirección AnotherScryptCoin especificada</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
@@ -999,8 +999,8 @@
 <context>
     <name>bitcoin-core</name>
     <message>
-        <source>Anotherscryptcoin Core</source>
-        <translation>Core de Anotherscryptcoin</translation>
+        <source>AnotherScryptCoin Core</source>
+        <translation>Core de AnotherScryptCoin</translation>
     </message>
     <message>
         <source>Corrupted block database detected</source>

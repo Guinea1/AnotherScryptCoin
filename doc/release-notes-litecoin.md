@@ -1,4 +1,4 @@
-Anotherscryptcoin Core version 0.18.1 is now available from:
+AnotherScryptCoin Core version 0.18.1 is now available from:
 
   <https://download.anotherscryptcoin.org/anotherscryptcoin-0.18.1/>
 
@@ -19,7 +19,7 @@ How to Upgrade
 If you are running an older version, shut it down. Wait until it has
 completely shut down (which might take a few minutes for older
 versions), then run the installer (on Windows) or just copy over
-`/Applications/Anotherscryptcoin-Qt` (on Mac) or `anotherscryptcoind`/`anotherscryptcoin-qt` (on
+`/Applications/AnotherScryptCoin-Qt` (on Mac) or `anotherscryptcoind`/`anotherscryptcoin-qt` (on
 Linux).
 
 The first time you run version 0.15.0 or newer, your chainstate database
@@ -35,16 +35,16 @@ wallet versions are still supported.
 Compatibility
 ==============
 
-Anotherscryptcoin Core is supported and extensively tested on operating systems
+AnotherScryptCoin Core is supported and extensively tested on operating systems
 using the Linux kernel, macOS 10.10+, and Windows 7 and newer. It is not
-recommended to use Anotherscryptcoin Core on unsupported systems.
+recommended to use AnotherScryptCoin Core on unsupported systems.
 
-Anotherscryptcoin Core should also work on most other Unix-like systems but is not
+AnotherScryptCoin Core should also work on most other Unix-like systems but is not
 as frequently tested on them.
 
 From 0.17.0 onwards, macOS <10.10 is no longer supported. 0.17.0 is
 built using Qt 5.9.x, which doesn't support versions of macOS older than
-10.10. Additionally, Anotherscryptcoin Core does not yet change appearance when
+10.10. Additionally, AnotherScryptCoin Core does not yet change appearance when
 macOS "dark mode" is activated.
 
 In addition to previously-supported CPU platforms, this release's
@@ -110,7 +110,7 @@ Configuration option changes
   disconnect/ban behavior will not cause a node that is whitelisting
   another to be dropped by peers.  Users can still explicitly enable
   this behavior with the command line option (and may want to consider
-  [contacting](mailto:contact@anotherscryptcoin.org) the Anotherscryptcoin Core
+  [contacting](mailto:contact@anotherscryptcoin.org) the AnotherScryptCoin Core
   project to let us know about their use-case, as this feature could be
   deprecated in the future).
 
@@ -137,10 +137,10 @@ Documentation
 
 - A new [document](https://github.com/anotherscryptcoin-project/anotherscryptcoin/blob/master/doc/anotherscryptcoin-conf.md)
   about the `anotherscryptcoin.conf` file describes how to use it to configure
-  Anotherscryptcoin Core.
+  AnotherScryptCoin Core.
 
-- A new document introduces Anotherscryptcoin Core's BIP174 [Partially-Signed
-  Anotherscryptcoin Transactions
+- A new document introduces AnotherScryptCoin Core's BIP174 [Partially-Signed
+  AnotherScryptCoin Transactions
   (PSBT)](https://github.com/anotherscryptcoin-project/anotherscryptcoin/blob/master/doc/psbt.md)
   interface, which is used to allow multiple programs to collaboratively
   work to create, sign, and broadcast new transactions.  This is useful
@@ -162,9 +162,9 @@ Build system changes
 --------------------
 
 - A new `--disable-bip70` option may be passed to `./configure` to
-  prevent Anotherscryptcoin-Qt from being built with support for the BIP70 payment
+  prevent AnotherScryptCoin-Qt from being built with support for the BIP70 payment
   protocol or from linking libssl.  As the payment protocol has exposed
-  Anotherscryptcoin Core to libssl vulnerabilities in the past, builders who don't
+  AnotherScryptCoin Core to libssl vulnerabilities in the past, builders who don't
   need BIP70 support are encouraged to use this option to reduce their
   exposure to future vulnerabilities.
 
@@ -255,7 +255,7 @@ in the Low-level Changes section below.
   ignored or are inconsistent, if there are any.
 
 - `getaddressinfo` now returns an additional `solvable` boolean field
-  when Anotherscryptcoin Core knows enough about the address's scriptPubKey,
+  when AnotherScryptCoin Core knows enough about the address's scriptPubKey,
   optional redeemScript, and optional witnessScript in order for the
   wallet to be able to generate an unsigned input spending funds sent to
   that address.
@@ -269,7 +269,7 @@ in the Low-level Changes section below.
 - `importprivkey` will preserve previously-set labels for addresses or
   public keys corresponding to the private key being imported.  For
   example, if you imported a watch-only address with the label "cold
-  wallet" in earlier releases of Anotherscryptcoin Core, subsequently importing
+  wallet" in earlier releases of AnotherScryptCoin Core, subsequently importing
   the private key would default to resetting the address's label to the
   default empty-string label ("").  In this release, the previous label
   of "cold wallet" will be retained.  If you optionally specify any
@@ -383,7 +383,7 @@ Graphical User Interface (GUI)
 Tools
 -----
 
-- A new `anotherscryptcoin-wallet` tool is now distributed alongside Anotherscryptcoin
+- A new `anotherscryptcoin-wallet` tool is now distributed alongside AnotherScryptCoin
   Core's other executables.  Without needing to use any RPCs, this tool
   can currently create a new wallet file or display some basic
   information about an existing wallet, such as whether the wallet is
@@ -393,24 +393,24 @@ Tools
 Planned changes
 ===============
 
-This section describes planned changes to Anotherscryptcoin Core that may affect
-other Anotherscryptcoin software and services.
+This section describes planned changes to AnotherScryptCoin Core that may affect
+other AnotherScryptCoin software and services.
 
-- Since version 0.16.0, Anotherscryptcoin Core’s built-in wallet has defaulted to
+- Since version 0.16.0, AnotherScryptCoin Core’s built-in wallet has defaulted to
   generating P2SH-wrapped segwit addresses when users want to receive
   payments. These addresses are backwards compatible with all
-  widely-used software.  Starting with Anotherscryptcoin Core 0.20 (expected about
-  a year after 0.18), Anotherscryptcoin Core will default to native segwit
+  widely-used software.  Starting with AnotherScryptCoin Core 0.20 (expected about
+  a year after 0.18), AnotherScryptCoin Core will default to native segwit
   addresses (bech32) that provide additional fee savings and other
   benefits. Currently, many wallets and services already support sending
-  to bech32 addresses, and if the Anotherscryptcoin Core project sees enough
+  to bech32 addresses, and if the AnotherScryptCoin Core project sees enough
   additional adoption, it will instead default to bech32 receiving
-  addresses in Anotherscryptcoin Core 0.20.
+  addresses in AnotherScryptCoin Core 0.20.
   P2SH-wrapped segwit addresses will continue to be provided if the user
   requests them in the GUI or by RPC, and anyone who doesn’t want the
   update will be able to configure their default address type.
   (Similarly, pioneering users who want to change their default now may
-  set the `addresstype=bech32` configuration option in any Anotherscryptcoin Core
+  set the `addresstype=bech32` configuration option in any AnotherScryptCoin Core
   release from 0.16.0 up.)
 
 Deprecated P2P messages
@@ -472,7 +472,7 @@ Network
   a misbehaving node will be disconnected to make room for nodes without
   a history of problems (unless the misbehaving node helps your node in
   some other way, such as by connecting to a part of the Internet from
-  which you don't have many other peers).  Previously, Anotherscryptcoin Core
+  which you don't have many other peers).  Previously, AnotherScryptCoin Core
   banned the IP addresses of misbehaving peers for a period of time
   (default of 1 day); this was easily circumvented by attackers with
   multiple IP addresses. If you manually ban a peer, such as by using
@@ -491,18 +491,18 @@ Wallet
   software. Instead such wallets will be completely unloaded and
   reloaded to achieve the same effect.
 
-- A sub-project of Anotherscryptcoin Core now provides Hardware Wallet Interaction
+- A sub-project of AnotherScryptCoin Core now provides Hardware Wallet Interaction
   (HWI) scripts that allow command-line users to use several popular
-  hardware key management devices with Anotherscryptcoin Core.  See their [project
+  hardware key management devices with AnotherScryptCoin Core.  See their [project
   page](https://github.com/bitcoin-core/HWI#readme) for details.
 
 Security
 --------
 
 - This release changes the Random Number Generator (RNG) used from
-  OpenSSL to Anotherscryptcoin Core's own implementation, although entropy
-  gathered by Anotherscryptcoin Core is fed out to OpenSSL and then read back in
-  when the program needs strong randomness. This moves Anotherscryptcoin Core a
+  OpenSSL to AnotherScryptCoin Core's own implementation, although entropy
+  gathered by AnotherScryptCoin Core is fed out to OpenSSL and then read back in
+  when the program needs strong randomness. This moves AnotherScryptCoin Core a
   little closer to no longer needing to depend on OpenSSL, a dependency
   that has caused security issues in the past.  The new implementation
   gathers entropy from multiple sources, including from hardware
@@ -511,7 +511,7 @@ Security
 Changes for particular platforms
 --------------------------------
 
-- On macOS, Anotherscryptcoin Core now opts out of application CPU throttling
+- On macOS, AnotherScryptCoin Core now opts out of application CPU throttling
   ("app nap") during initial blockchain download, when catching up from
   over 100 blocks behind the current chain tip, or when reindexing chain
   data. This helps prevent these operations from taking an excessively

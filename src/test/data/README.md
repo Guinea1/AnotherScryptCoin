@@ -1,7 +1,7 @@
 Description
 ------------
 
-This directory contains data-driven tests for various aspects of Anotherscryptcoin.
+This directory contains data-driven tests for various aspects of AnotherScryptCoin.
 
 License
 --------

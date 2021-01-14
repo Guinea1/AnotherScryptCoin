@@ -151,8 +151,8 @@
 <context>
     <name>BitcoinGUI</name>
     <message>
-        <source>Send coins to a Anotherscryptcoin address</source>
-        <translation>ផ្ញើកាក់ទៅកាន់ អាសយដ្ឋាន Anotherscryptcoin មួយ</translation>
+        <source>Send coins to a AnotherScryptCoin address</source>
+        <translation>ផ្ញើកាក់ទៅកាន់ អាសយដ្ឋាន AnotherScryptCoin មួយ</translation>
     </message>
     </context>
 <context>

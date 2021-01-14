@@ -66,12 +66,12 @@
         <translation>Direcciones de recibo</translation>
     </message>
     <message>
-        <source>These are your Anotherscryptcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Estas son tus direcciones de Anotherscryptcoin para enviar pagos. Siempre revisa el monto y la dirección de envío antes de enviar monedas.</translation>
+        <source>These are your AnotherScryptCoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Estas son tus direcciones de AnotherScryptCoin para enviar pagos. Siempre revisa el monto y la dirección de envío antes de enviar monedas.</translation>
     </message>
     <message>
-        <source>These are your Anotherscryptcoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Estas son sus direcciones de Anotherscryptcoin para recibir pagos. Se recomienda utilizar una nueva dirección de recepción para cada transacción.</translation>
+        <source>These are your AnotherScryptCoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Estas son sus direcciones de AnotherScryptCoin para recibir pagos. Se recomienda utilizar una nueva dirección de recepción para cada transacción.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -310,8 +310,8 @@
         <translation>Reindexando bloques en el disco...</translation>
     </message>
     <message>
-        <source>Send coins to a Anotherscryptcoin address</source>
-        <translation>Enviar monedas a una dirección Anotherscryptcoin</translation>
+        <source>Send coins to a AnotherScryptCoin address</source>
+        <translation>Enviar monedas a una dirección AnotherScryptCoin</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -334,8 +334,8 @@
         <translation>&amp;Verificar mensaje...</translation>
     </message>
     <message>
-        <source>Anotherscryptcoin</source>
-        <translation>Anotherscryptcoin</translation>
+        <source>AnotherScryptCoin</source>
+        <translation>AnotherScryptCoin</translation>
     </message>
     <message>
         <source>&amp;Send</source>
@@ -489,8 +489,8 @@
 <context>
     <name>Intro</name>
     <message>
-        <source>Anotherscryptcoin</source>
-        <translation>Anotherscryptcoin</translation>
+        <source>AnotherScryptCoin</source>
+        <translation>AnotherScryptCoin</translation>
     </message>
     <message>
         <source>Error</source>
@@ -578,8 +578,8 @@
         <translation>Mensaje:</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Anotherscryptcoin network.</source>
-        <translation>Mensaje opcional para agregar a la solicitud de pago, el cual será mostrado cuando la solicitud este abierta. Nota: El mensaje no se manda con el pago a travéz de la red de Anotherscryptcoin.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the AnotherScryptCoin network.</source>
+        <translation>Mensaje opcional para agregar a la solicitud de pago, el cual será mostrado cuando la solicitud este abierta. Nota: El mensaje no se manda con el pago a travéz de la red de AnotherScryptCoin.</translation>
     </message>
     <message>
         <source>Use this form to request payments. All fields are &lt;b&gt;optional&lt;/b&gt;.</source>
@@ -811,8 +811,8 @@
 <context>
     <name>bitcoin-core</name>
     <message>
-        <source>Anotherscryptcoin Core</source>
-        <translation>nucleo Anotherscryptcoin</translation>
+        <source>AnotherScryptCoin Core</source>
+        <translation>nucleo AnotherScryptCoin</translation>
     </message>
     <message>
         <source>Verifying blocks...</source>

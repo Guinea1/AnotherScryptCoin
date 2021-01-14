@@ -38,17 +38,17 @@ from the root of the repository.
 
 **Note**: You only need Berkeley DB if the wallet is enabled (see [*Disable-wallet mode*](/doc/build-osx.md#disable-wallet-mode)).
 
-Build Anotherscryptcoin Core
+Build AnotherScryptCoin Core
 ------------------------
 
-1. Clone the Anotherscryptcoin Core source code:
+1. Clone the AnotherScryptCoin Core source code:
 
         git clone https://github.com/anotherscryptcoin-project/anotherscryptcoin
         cd anotherscryptcoin
 
-2.  Build Anotherscryptcoin Core:
+2.  Build AnotherScryptCoin Core:
 
-    Configure and build the headless Anotherscryptcoin Core binaries as well as the GUI (if Qt is found).
+    Configure and build the headless AnotherScryptCoin Core binaries as well as the GUI (if Qt is found).
 
     You can disable the GUI build by passing `--without-gui` to configure.
 
@@ -76,7 +76,7 @@ Build Anotherscryptcoin Core
 
 Disable-wallet mode
 --------------------
-When the intention is to run only a P2P node without a wallet, Anotherscryptcoin Core may be compiled in
+When the intention is to run only a P2P node without a wallet, AnotherScryptCoin Core may be compiled in
 disable-wallet mode with:
 
     ./configure --disable-wallet
@@ -88,21 +88,21 @@ Mining is also possible in disable-wallet mode using the `getblocktemplate` RPC 
 Running
 -------
 
-Anotherscryptcoin Core is now available at `./src/anotherscryptcoind`
+AnotherScryptCoin Core is now available at `./src/anotherscryptcoind`
 
 Before running, you may create an empty configuration file:
 
-    mkdir -p "/Users/${USER}/Library/Application Support/Anotherscryptcoin"
+    mkdir -p "/Users/${USER}/Library/Application Support/AnotherScryptCoin"
 
-    touch "/Users/${USER}/Library/Application Support/Anotherscryptcoin/anotherscryptcoin.conf"
+    touch "/Users/${USER}/Library/Application Support/AnotherScryptCoin/anotherscryptcoin.conf"
 
-    chmod 600 "/Users/${USER}/Library/Application Support/Anotherscryptcoin/anotherscryptcoin.conf"
+    chmod 600 "/Users/${USER}/Library/Application Support/AnotherScryptCoin/anotherscryptcoin.conf"
 
 The first time you run anotherscryptcoind, it will start downloading the blockchain. This process could take many hours, or even days on slower than average systems.
 
 You can monitor the download process by looking at the debug.log file:
 
-    tail -f $HOME/Library/Application\ Support/Anotherscryptcoin/debug.log
+    tail -f $HOME/Library/Application\ Support/AnotherScryptCoin/debug.log
 
 Other commands:
 -------

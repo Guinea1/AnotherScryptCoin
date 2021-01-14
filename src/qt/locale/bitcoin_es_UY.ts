@@ -66,12 +66,12 @@
         <translation>Direcciones de recepción</translation>
     </message>
     <message>
-        <source>These are your Anotherscryptcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Estás son tus direcciones de Anotherscryptcoin para enviar pagos. Verifica siempre el monto y la dirección de recepción antes de enviar monedas.</translation>
+        <source>These are your AnotherScryptCoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Estás son tus direcciones de AnotherScryptCoin para enviar pagos. Verifica siempre el monto y la dirección de recepción antes de enviar monedas.</translation>
     </message>
     <message>
-        <source>These are your Anotherscryptcoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Estas son tus direcciones de Anotherscryptcoin para recibir pagos. Es recomendable usar una nueva dirección de recepción para cada transacción.</translation>
+        <source>These are your AnotherScryptCoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Estas son tus direcciones de AnotherScryptCoin para recibir pagos. Es recomendable usar una nueva dirección de recepción para cada transacción.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -250,16 +250,16 @@
         <translation>Cambiar contraseña</translation>
     </message>
     <message>
-        <source>Send coins to a Anotherscryptcoin address</source>
-        <translation>Enviar monedas a una dirección Anotherscryptcoin</translation>
+        <source>Send coins to a AnotherScryptCoin address</source>
+        <translation>Enviar monedas a una dirección AnotherScryptCoin</translation>
     </message>
     <message>
         <source>Change the passphrase used for wallet encryption</source>
         <translation>Cambie la clave utilizada para el cifrado del monedero</translation>
     </message>
     <message>
-        <source>Anotherscryptcoin</source>
-        <translation>Anotherscryptcoin</translation>
+        <source>AnotherScryptCoin</source>
+        <translation>AnotherScryptCoin</translation>
     </message>
     <message>
         <source>&amp;Show / Hide</source>
@@ -384,8 +384,8 @@
 <context>
     <name>Intro</name>
     <message>
-        <source>Anotherscryptcoin</source>
-        <translation>Anotherscryptcoin</translation>
+        <source>AnotherScryptCoin</source>
+        <translation>AnotherScryptCoin</translation>
     </message>
     <message>
         <source>Error</source>

@@ -1445,7 +1445,7 @@ static void ThreadMapPort()
             }
         }
 
-        std::string strDesc = "Anotherscryptcoin " + FormatFullVersion();
+        std::string strDesc = "AnotherScryptCoin " + FormatFullVersion();
 
         do {
 #ifndef UPNPDISCOVER_SUCCESS

@@ -42,8 +42,8 @@
         <translation>Auswählen</translation>
     </message>
     <message>
-        <source>These are your Anotherscryptcoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Dies sind Ihre Anotherscryptcoin-Adressen für den Empfang von Zahlungen. Es wird empfohlen, für jede Transaktion eine neue Empfangsadresse zu verwenden.</translation>
+        <source>These are your AnotherScryptCoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Dies sind Ihre AnotherScryptCoin-Adressen für den Empfang von Zahlungen. Es wird empfohlen, für jede Transaktion eine neue Empfangsadresse zu verwenden.</translation>
     </message>
     <message>
         <source>Export Address List</source>
@@ -222,8 +222,8 @@
         <translation>Nachricht &amp;bestätigen</translation>
     </message>
     <message>
-        <source>Anotherscryptcoin</source>
-        <translation>Anotherscryptcoin</translation>
+        <source>AnotherScryptCoin</source>
+        <translation>AnotherScryptCoin</translation>
     </message>
     <message>
         <source>&amp;Send</source>
@@ -246,12 +246,12 @@
         <translation>Verschlüssele die Private Keys, die zu deiner Brieftasche gehören</translation>
     </message>
     <message>
-        <source>Sign messages with your Anotherscryptcoin addresses to prove you own them</source>
-        <translation>Nachrichten mit Ihrer Anotherscryptcoin-Adresse signieren, um zu beweisen, dass sie Ihnen gehören</translation>
+        <source>Sign messages with your AnotherScryptCoin addresses to prove you own them</source>
+        <translation>Nachrichten mit Ihrer AnotherScryptCoin-Adresse signieren, um zu beweisen, dass sie Ihnen gehören</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Anotherscryptcoin addresses</source>
-        <translation>Überprüfen Sie Nachrichten, um sicherzustellen, dass sie mit den angegebenen Anotherscryptcoin-Adressen signiert wurden</translation>
+        <source>Verify messages to ensure they were signed with specified AnotherScryptCoin addresses</source>
+        <translation>Überprüfen Sie Nachrichten, um sicherzustellen, dass sie mit den angegebenen AnotherScryptCoin-Adressen signiert wurden</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -316,8 +316,8 @@
         <translation>Überweisung empfangen</translation>
     </message>
     <message>
-        <source>A fatal error occurred. Anotherscryptcoin can no longer continue safely and will quit.</source>
-        <translation>Ein schwerwiegender Fehler ist aufgetreten. Anotherscryptcoin kann nicht mehr sicher fortfahren und beendet sich.</translation>
+        <source>A fatal error occurred. AnotherScryptCoin can no longer continue safely and will quit.</source>
+        <translation>Ein schwerwiegender Fehler ist aufgetreten. AnotherScryptCoin kann nicht mehr sicher fortfahren und beendet sich.</translation>
     </message>
 </context>
 <context>
@@ -415,8 +415,8 @@
         <translation>Willkommen</translation>
     </message>
     <message>
-        <source>Anotherscryptcoin</source>
-        <translation>Anotherscryptcoin</translation>
+        <source>AnotherScryptCoin</source>
+        <translation>AnotherScryptCoin</translation>
     </message>
     <message>
         <source>Error</source>
@@ -460,8 +460,8 @@
         <translation>Betrag</translation>
     </message>
     <message>
-        <source>Enter a Anotherscryptcoin address (e.g. %1)</source>
-        <translation>Anotherscryptcoin Adresse eingeben (z.B. %1)</translation>
+        <source>Enter a AnotherScryptCoin address (e.g. %1)</source>
+        <translation>AnotherScryptCoin Adresse eingeben (z.B. %1)</translation>
     </message>
     <message>
         <source>N/A</source>

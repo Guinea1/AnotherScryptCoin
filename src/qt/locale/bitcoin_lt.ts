@@ -66,12 +66,12 @@
         <translation>Gavimo adresai</translation>
     </message>
     <message>
-        <source>These are your Anotherscryptcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Tai yra jūsų Anotherscryptcoin adresai išeinantiems mokėjimams. Visada pasitikrinkite sumą ir gavėjo adresą prieš siunčiant lėšas. </translation>
+        <source>These are your AnotherScryptCoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Tai yra jūsų AnotherScryptCoin adresai išeinantiems mokėjimams. Visada pasitikrinkite sumą ir gavėjo adresą prieš siunčiant lėšas. </translation>
     </message>
     <message>
-        <source>These are your Anotherscryptcoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Tai yra Jūsų Anotherscryptcoin adresai įeinantiems mokėjimams. Kiekvienam mokėjimui rekomenduojama naudoti naują adresą. </translation>
+        <source>These are your AnotherScryptCoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Tai yra Jūsų AnotherScryptCoin adresai įeinantiems mokėjimams. Kiekvienam mokėjimui rekomenduojama naudoti naują adresą. </translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -342,8 +342,8 @@
         <translation>Tarpinis serveris yra &lt;b&gt;įgalintas&lt;/b&gt;: %1</translation>
     </message>
     <message>
-        <source>Send coins to a Anotherscryptcoin address</source>
-        <translation>Siųsti monetas Anotherscryptcoin adresui</translation>
+        <source>Send coins to a AnotherScryptCoin address</source>
+        <translation>Siųsti monetas AnotherScryptCoin adresui</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -366,8 +366,8 @@
         <translation>&amp;Tikrinti žinutę...</translation>
     </message>
     <message>
-        <source>Anotherscryptcoin</source>
-        <translation>Anotherscryptcoin</translation>
+        <source>AnotherScryptCoin</source>
+        <translation>AnotherScryptCoin</translation>
     </message>
     <message>
         <source>&amp;Send</source>
@@ -390,12 +390,12 @@
         <translation>Užšifruoti privačius raktus, kurie priklauso jūsų piniginei</translation>
     </message>
     <message>
-        <source>Sign messages with your Anotherscryptcoin addresses to prove you own them</source>
-        <translation>Pasirašydami žinutes su savo Anotherscryptcoin adresais įrodysite jog esate jų savininkas </translation>
+        <source>Sign messages with your AnotherScryptCoin addresses to prove you own them</source>
+        <translation>Pasirašydami žinutes su savo AnotherScryptCoin adresais įrodysite jog esate jų savininkas </translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Anotherscryptcoin addresses</source>
-        <translation>Patikrinkite žinutę, jog įsitikintumėte, kad ją pasirašė nurodytas Anotherscryptcoin adresas</translation>
+        <source>Verify messages to ensure they were signed with specified AnotherScryptCoin addresses</source>
+        <translation>Patikrinkite žinutę, jog įsitikintumėte, kad ją pasirašė nurodytas AnotherScryptCoin adresas</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -434,8 +434,8 @@
         <translation>Komandinės eilutės parametrai</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Anotherscryptcoin network</source>
-        <translation><numerusform>%n Anotherscryptcoin tinklo aktyvus ryšys</numerusform><numerusform>%n Anotherscryptcoin tinklo aktyvūs ryšiai</numerusform><numerusform>%n Anotherscryptcoin tinklo aktyvūs ryšiai</numerusform><numerusform>%n Anotherscryptcoin tinklo aktyvūs ryšiai</numerusform></translation>
+        <source>%n active connection(s) to AnotherScryptCoin network</source>
+        <translation><numerusform>%n AnotherScryptCoin tinklo aktyvus ryšys</numerusform><numerusform>%n AnotherScryptCoin tinklo aktyvūs ryšiai</numerusform><numerusform>%n AnotherScryptCoin tinklo aktyvūs ryšiai</numerusform><numerusform>%n AnotherScryptCoin tinklo aktyvūs ryšiai</numerusform></translation>
     </message>
     <message>
         <source>Indexing blocks on disk...</source>
@@ -502,8 +502,8 @@
         <translation>Uždaryti Piniginę</translation>
     </message>
     <message>
-        <source>Show the %1 help message to get a list with possible Anotherscryptcoin command-line options</source>
-        <translation>Rodyti %1 pagalbos žinutę su Anotherscryptcoin pasirinkimo komandomis</translation>
+        <source>Show the %1 help message to get a list with possible AnotherScryptCoin command-line options</source>
+        <translation>Rodyti %1 pagalbos žinutę su AnotherScryptCoin pasirinkimo komandomis</translation>
     </message>
     <message>
         <source>default wallet</source>
@@ -614,8 +614,8 @@
         <translation>Piniginė &lt;b&gt;užšifruota&lt;/b&gt; ir šiuo metu &lt;b&gt;užrakinta&lt;/b&gt;</translation>
     </message>
     <message>
-        <source>A fatal error occurred. Anotherscryptcoin can no longer continue safely and will quit.</source>
-        <translation>Kritinė klaida. Anotherscryptcoin nebegali tęsti saugiai ir bus išjungtas.</translation>
+        <source>A fatal error occurred. AnotherScryptCoin can no longer continue safely and will quit.</source>
+        <translation>Kritinė klaida. AnotherScryptCoin nebegali tęsti saugiai ir bus išjungtas.</translation>
     </message>
 </context>
 <context>
@@ -804,8 +804,8 @@
         <translation>Keisti siuntimo adresą</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Anotherscryptcoin address.</source>
-        <translation>Įvestas adresas „%1“ nėra galiojantis Anotherscryptcoin adresas.</translation>
+        <source>The entered address "%1" is not a valid AnotherScryptCoin address.</source>
+        <translation>Įvestas adresas „%1“ nėra galiojantis AnotherScryptCoin adresas.</translation>
     </message>
     <message>
         <source>Address "%1" already exists as a receiving address with label "%2" and so cannot be added as a sending address.</source>
@@ -901,8 +901,8 @@
         <translation>Naudoti kitą duomenų katalogą:</translation>
     </message>
     <message>
-        <source>Anotherscryptcoin</source>
-        <translation>Anotherscryptcoin</translation>
+        <source>AnotherScryptCoin</source>
+        <translation>AnotherScryptCoin</translation>
     </message>
     <message>
         <source>At least %1 GB of data will be stored in this directory, and it will grow over time.</source>
@@ -913,8 +913,8 @@
         <translation>Šiame kataloge bus saugoma maždaug apie %1 GB duomenų.</translation>
     </message>
     <message>
-        <source>%1 will download and store a copy of the Anotherscryptcoin block chain.</source>
-        <translation>%1 bus atsisiųsta ir išsaugota Anotherscryptcoin blokų grandinės kopiją.</translation>
+        <source>%1 will download and store a copy of the AnotherScryptCoin block chain.</source>
+        <translation>%1 bus atsisiųsta ir išsaugota AnotherScryptCoin blokų grandinės kopiją.</translation>
     </message>
     <message>
         <source>The wallet will also be stored in this directory.</source>
@@ -1126,8 +1126,8 @@
         <translation>&amp;Išleiskite nepatvirtintus pakeitimus</translation>
     </message>
     <message>
-        <source>Automatically open the Anotherscryptcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automatiškai atidaryti Anotherscryptcoin kliento prievadą maršrutizatoriuje. Tai veikia tik tada, kai jūsų maršrutizatorius palaiko UPnP ir ji įjungta.</translation>
+        <source>Automatically open the AnotherScryptCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Automatiškai atidaryti AnotherScryptCoin kliento prievadą maršrutizatoriuje. Tai veikia tik tada, kai jūsų maršrutizatorius palaiko UPnP ir ji įjungta.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -1142,8 +1142,8 @@
         <translation>Leisti gaunamu&amp;s ryšius</translation>
     </message>
     <message>
-        <source>Connect to the Anotherscryptcoin network through a SOCKS5 proxy.</source>
-        <translation>Prisijunkite prie „Anotherscryptcoin“ tinklo per SOCKS5 proxy.</translation>
+        <source>Connect to the AnotherScryptCoin network through a SOCKS5 proxy.</source>
+        <translation>Prisijunkite prie „AnotherScryptCoin“ tinklo per SOCKS5 proxy.</translation>
     </message>
     <message>
         <source>&amp;Connect through SOCKS5 proxy (default proxy):</source>
@@ -1178,8 +1178,8 @@
         <translation>Tor</translation>
     </message>
     <message>
-        <source>Connect to the Anotherscryptcoin network through a separate SOCKS5 proxy for Tor hidden services.</source>
-        <translation>Prisijunkite prie „Anotherscryptcoin“ tinklo per atskirą „SOCKS5“ proxy „Tor“ paslėptas paslaugas.</translation>
+        <source>Connect to the AnotherScryptCoin network through a separate SOCKS5 proxy for Tor hidden services.</source>
+        <translation>Prisijunkite prie „AnotherScryptCoin“ tinklo per atskirą „SOCKS5“ proxy „Tor“ paslėptas paslaugas.</translation>
     </message>
     <message>
         <source>&amp;Window</source>
@@ -1289,8 +1289,8 @@
         <translation>Forma</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Anotherscryptcoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Rodoma informacija gali būti pasenusi. Piniginė automatiškai sinchronizuojasi su „Anotherscryptcoin“ tinklu po ryšio užmezgimo, tačiau šis procesas dar nebaigtas.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the AnotherScryptCoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Rodoma informacija gali būti pasenusi. Piniginė automatiškai sinchronizuojasi su „AnotherScryptCoin“ tinklu po ryšio užmezgimo, tačiau šis procesas dar nebaigtas.</translation>
     </message>
     <message>
         <source>Watch-only:</source>
@@ -1392,8 +1392,8 @@
         <translation>Neteisingas mokėjimo adresas %1</translation>
     </message>
     <message>
-        <source>URI cannot be parsed! This can be caused by an invalid Anotherscryptcoin address or malformed URI parameters.</source>
-        <translation>URI negalima perskaityti! Tai gali sukelti negaliojantys „Anotherscryptcoin“ adresas arba netinkami URI parametrai.</translation>
+        <source>URI cannot be parsed! This can be caused by an invalid AnotherScryptCoin address or malformed URI parameters.</source>
+        <translation>URI negalima perskaityti! Tai gali sukelti negaliojantys „AnotherScryptCoin“ adresas arba netinkami URI parametrai.</translation>
     </message>
     <message>
         <source>Payment request file handling</source>
@@ -1494,8 +1494,8 @@
         <translation>Suma</translation>
     </message>
     <message>
-        <source>Enter a Anotherscryptcoin address (e.g. %1)</source>
-        <translation>Įveskite Anotherscryptcoin adresą (pvz., %1)</translation>
+        <source>Enter a AnotherScryptCoin address (e.g. %1)</source>
+        <translation>Įveskite AnotherScryptCoin adresą (pvz., %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -1946,8 +1946,8 @@
         <translation>Žinutė:</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Anotherscryptcoin network.</source>
-        <translation>Neprivalomas pranešimas, pridedamas prie mokėjimo prašymo, kuris bus rodomas atidarius užklausą. Pastaba: pranešimas nebus išsiųstas su mokėjimu per „Anotherscryptcoin“ tinklą.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the AnotherScryptCoin network.</source>
+        <translation>Neprivalomas pranešimas, pridedamas prie mokėjimo prašymo, kuris bus rodomas atidarius užklausą. Pastaba: pranešimas nebus išsiųstas su mokėjimu per „AnotherScryptCoin“ tinklą.</translation>
     </message>
     <message>
         <source>An optional label to associate with the new receiving address.</source>
@@ -2371,8 +2371,8 @@ Pastaba: Kadangi mokestis apskaičiuojamas pagal baitą, mokestis už „100 sat
         <translation><numerusform>Apskaičiuota, kad bus pradėtas patvirtinimas per %n bloką.</numerusform><numerusform>Apskaičiuota, kad bus pradėtas patvirtinimas per %n blokus.</numerusform><numerusform>Apskaičiuota, kad bus pradėtas patvirtinimas per %n blokus.</numerusform><numerusform>Apskaičiuota, kad bus pradėtas patvirtinimas per %n blokus.</numerusform></translation>
     </message>
     <message>
-        <source>Warning: Invalid Anotherscryptcoin address</source>
-        <translation>Įspėjimas: neteisingas Anotherscryptcoin adresas</translation>
+        <source>Warning: Invalid AnotherScryptCoin address</source>
+        <translation>Įspėjimas: neteisingas AnotherScryptCoin adresas</translation>
     </message>
     <message>
         <source>Warning: Unknown change address</source>
@@ -2414,8 +2414,8 @@ Pastaba: Kadangi mokestis apskaičiuojamas pagal baitą, mokestis už „100 sat
         <translation>Tai įprastas mokėjimas.</translation>
     </message>
     <message>
-        <source>The Anotherscryptcoin address to send the payment to</source>
-        <translation>Anotherscryptcoin adresas, į kurį siunčiamas mokėjimas</translation>
+        <source>The AnotherScryptCoin address to send the payment to</source>
+        <translation>AnotherScryptCoin adresas, į kurį siunčiamas mokėjimas</translation>
     </message>
     <message>
         <source>Alt+A</source>
@@ -2462,8 +2462,8 @@ Pastaba: Kadangi mokestis apskaičiuojamas pagal baitą, mokestis už „100 sat
         <translation>Įveskite šio adreso etiketę, kad ją pridėtumėte prie naudojamų adresų sąrašo</translation>
     </message>
     <message>
-        <source>A message that was attached to the anotherscryptcoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Anotherscryptcoin network.</source>
-        <translation>Pranešimas, kuris buvo pridėtas prie anotherscryptcoin: URI, kuris bus saugomas kartu su sandoriu jūsų nuoroda. Pastaba: šis pranešimas nebus išsiųstas per „Anotherscryptcoin“ tinklą.</translation>
+        <source>A message that was attached to the anotherscryptcoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the AnotherScryptCoin network.</source>
+        <translation>Pranešimas, kuris buvo pridėtas prie anotherscryptcoin: URI, kuris bus saugomas kartu su sandoriu jūsų nuoroda. Pastaba: šis pranešimas nebus išsiųstas per „AnotherScryptCoin“ tinklą.</translation>
     </message>
     <message>
         <source>Pay To:</source>
@@ -2507,8 +2507,8 @@ Pastaba: Kadangi mokestis apskaičiuojamas pagal baitą, mokestis už „100 sat
         <translation>&amp;Pasirašyti žinutę</translation>
     </message>
     <message>
-        <source>The Anotherscryptcoin address to sign the message with</source>
-        <translation>Anotherscryptcoin adresas, kuriuo bus pasirašytas pranešimas su</translation>
+        <source>The AnotherScryptCoin address to sign the message with</source>
+        <translation>AnotherScryptCoin adresas, kuriuo bus pasirašytas pranešimas su</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -2539,7 +2539,7 @@ Pastaba: Kadangi mokestis apskaičiuojamas pagal baitą, mokestis už „100 sat
         <translation>Nukopijuokite dabartinį parašą į sistemos iškarpinę</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Anotherscryptcoin address</source>
+        <source>Sign the message to prove you own this AnotherScryptCoin address</source>
         <translation>Registruotis žinute įrodymuii, kad turite šį adresą</translation>
     </message>
     <message>
@@ -2559,12 +2559,12 @@ Pastaba: Kadangi mokestis apskaičiuojamas pagal baitą, mokestis už „100 sat
         <translation>&amp;Patikrinti žinutę</translation>
     </message>
     <message>
-        <source>The Anotherscryptcoin address the message was signed with</source>
-        <translation>Anotherscryptcoin adresas, kuriuo buvo pasirašytas pranešimas</translation>
+        <source>The AnotherScryptCoin address the message was signed with</source>
+        <translation>AnotherScryptCoin adresas, kuriuo buvo pasirašytas pranešimas</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Anotherscryptcoin address</source>
-        <translation>Patikrinkite žinutę, jog įsitikintumėte, kad ją pasirašė nurodytas Anotherscryptcoin adresas</translation>
+        <source>Verify the message to ensure it was signed with the specified AnotherScryptCoin address</source>
+        <translation>Patikrinkite žinutę, jog įsitikintumėte, kad ją pasirašė nurodytas AnotherScryptCoin adresas</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
@@ -3167,8 +3167,8 @@ Pastaba: Kadangi mokestis apskaičiuojamas pagal baitą, mokestis už „100 sat
 <context>
     <name>bitcoin-core</name>
     <message>
-        <source>Anotherscryptcoin Core</source>
-        <translation>Anotherscryptcoin branduolys</translation>
+        <source>AnotherScryptCoin Core</source>
+        <translation>AnotherScryptCoin branduolys</translation>
     </message>
     <message>
         <source>The %s developers</source>

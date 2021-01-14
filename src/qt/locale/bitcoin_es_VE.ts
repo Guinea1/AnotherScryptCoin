@@ -62,12 +62,12 @@
         <translation>Direcciones de recepción</translation>
     </message>
     <message>
-        <source>These are your Anotherscryptcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Estas son tus direcciones Anotherscryptcoin para realizar pagos. Verifica siempre el monto y la dirección de recepción antes de enviar monedas. </translation>
+        <source>These are your AnotherScryptCoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Estas son tus direcciones AnotherScryptCoin para realizar pagos. Verifica siempre el monto y la dirección de recepción antes de enviar monedas. </translation>
     </message>
     <message>
-        <source>These are your Anotherscryptcoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Estas son tus direcciones Anotherscryptcoin para recibir pagos. Es recomendable usar una nueva dirección de recibo para cada transacción.</translation>
+        <source>These are your AnotherScryptCoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Estas son tus direcciones AnotherScryptCoin para recibir pagos. Es recomendable usar una nueva dirección de recibo para cada transacción.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -208,8 +208,8 @@
         <translation>Reindexando bloques en el disco...</translation>
     </message>
     <message>
-        <source>Send coins to a Anotherscryptcoin address</source>
-        <translation>Enviar monedas a una dirección Anotherscryptcoin</translation>
+        <source>Send coins to a AnotherScryptCoin address</source>
+        <translation>Enviar monedas a una dirección AnotherScryptCoin</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -224,8 +224,8 @@
         <translation>Abre la consola de depuración y diágnostico</translation>
     </message>
     <message>
-        <source>Anotherscryptcoin</source>
-        <translation>Anotherscryptcoin</translation>
+        <source>AnotherScryptCoin</source>
+        <translation>AnotherScryptCoin</translation>
     </message>
     <message>
         <source>&amp;Send</source>
@@ -248,12 +248,12 @@
         <translation>Encriptar las llaves privadas que pertenecen a tu billetera</translation>
     </message>
     <message>
-        <source>Sign messages with your Anotherscryptcoin addresses to prove you own them</source>
-        <translation>Firma mensajes con tus direcciones Anotherscryptcoin para probar que eres dueño de ellas</translation>
+        <source>Sign messages with your AnotherScryptCoin addresses to prove you own them</source>
+        <translation>Firma mensajes con tus direcciones AnotherScryptCoin para probar que eres dueño de ellas</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Anotherscryptcoin addresses</source>
-        <translation>Verificar mensajes para asegurar que estaban firmados con direcciones Anotherscryptcoin especificas</translation>
+        <source>Verify messages to ensure they were signed with specified AnotherScryptCoin addresses</source>
+        <translation>Verificar mensajes para asegurar que estaban firmados con direcciones AnotherScryptCoin especificas</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -491,8 +491,8 @@
         <translation>Usa un directorio de datos personalizado:</translation>
     </message>
     <message>
-        <source>Anotherscryptcoin</source>
-        <translation>Anotherscryptcoin</translation>
+        <source>AnotherScryptCoin</source>
+        <translation>AnotherScryptCoin</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -777,8 +777,8 @@
 <context>
     <name>bitcoin-core</name>
     <message>
-        <source>Anotherscryptcoin Core</source>
-        <translation>Anotherscryptcoin Core</translation>
+        <source>AnotherScryptCoin Core</source>
+        <translation>AnotherScryptCoin Core</translation>
     </message>
     <message>
         <source>Information</source>

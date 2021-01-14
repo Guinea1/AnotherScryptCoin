@@ -1,15 +1,15 @@
-Anotherscryptcoin Core
+AnotherScryptCoin Core
 =============
 
 Setup
 ---------------------
-Anotherscryptcoin Core is the original Anotherscryptcoin client and it builds the backbone of the network. It downloads and, by default, stores the entire history of Anotherscryptcoin transactions, which requires approximately 22 gigabytes of disk space. Depending on the speed of your computer and network connection, the synchronization process can take anywhere from a few hours to a day or more.
+AnotherScryptCoin Core is the original AnotherScryptCoin client and it builds the backbone of the network. It downloads and, by default, stores the entire history of AnotherScryptCoin transactions, which requires approximately 22 gigabytes of disk space. Depending on the speed of your computer and network connection, the synchronization process can take anywhere from a few hours to a day or more.
 
-To download Anotherscryptcoin Core, visit [anotherscryptcoin.org](https://anotherscryptcoin.org/).
+To download AnotherScryptCoin Core, visit [anotherscryptcoin.org](https://anotherscryptcoin.org/).
 
 Running
 ---------------------
-The following are some helpful notes on how to run Anotherscryptcoin Core on your native platform.
+The following are some helpful notes on how to run AnotherScryptCoin Core on your native platform.
 
 ### Unix
 
@@ -24,18 +24,18 @@ Unpack the files into a directory, and then run anotherscryptcoin-qt.exe.
 
 ### macOS
 
-Drag Anotherscryptcoin Core to your applications folder, and then run Anotherscryptcoin Core.
+Drag AnotherScryptCoin Core to your applications folder, and then run AnotherScryptCoin Core.
 
 ### Need Help?
 
-* See the documentation at the [Anotherscryptcoin Wiki](https://anotherscryptcoin.info/)
+* See the documentation at the [AnotherScryptCoin Wiki](https://anotherscryptcoin.info/)
 for help and more information.
 * Ask for help on [#anotherscryptcoin](http://webchat.freenode.net?channels=anotherscryptcoin) on Freenode. If you don't have an IRC client use [webchat here](http://webchat.freenode.net?channels=anotherscryptcoin).
-* Ask for help on the [AnotherscryptcoinTalk](https://anotherscryptcointalk.io/) forums, in the [Technical Support section](https://anotherscryptcointalk.io/c/technical-support).
+* Ask for help on the [AnotherScryptCoinTalk](https://anotherscryptcointalk.io/) forums, in the [Technical Support section](https://anotherscryptcointalk.io/c/technical-support).
 
 Building
 ---------------------
-The following are developer notes on how to build Anotherscryptcoin Core on your native platform. They are not complete guides, but include notes on the necessary libraries, compile flags, etc.
+The following are developer notes on how to build AnotherScryptCoin Core on your native platform. They are not complete guides, but include notes on the necessary libraries, compile flags, etc.
 
 - [Dependencies](dependencies.md)
 - [macOS Build Notes](build-osx.md)
@@ -48,7 +48,7 @@ The following are developer notes on how to build Anotherscryptcoin Core on your
 
 Development
 ---------------------
-The Anotherscryptcoin repo's [root README](/README.md) contains relevant information on the development process and automated testing.
+The AnotherScryptCoin repo's [root README](/README.md) contains relevant information on the development process and automated testing.
 
 - [Developer Notes](developer-notes.md)
 - [Productivity Notes](productivity.md)
@@ -64,8 +64,8 @@ The Anotherscryptcoin repo's [root README](/README.md) contains relevant informa
 - [Benchmarking](benchmarking.md)
 
 ### Resources
-* Discuss on the [AnotherscryptcoinTalk](https://anotherscryptcointalk.io/) forums.
-* Discuss general Anotherscryptcoin development on #anotherscryptcoin-dev on Freenode. If you don't have an IRC client use [webchat here](http://webchat.freenode.net/?channels=anotherscryptcoin-dev.
+* Discuss on the [AnotherScryptCoinTalk](https://anotherscryptcointalk.io/) forums.
+* Discuss general AnotherScryptCoin development on #anotherscryptcoin-dev on Freenode. If you don't have an IRC client use [webchat here](http://webchat.freenode.net/?channels=anotherscryptcoin-dev.
 
 ### Miscellaneous
 - [Assets Attribution](assets-attribution.md)

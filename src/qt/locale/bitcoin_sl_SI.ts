@@ -66,12 +66,12 @@
         <translation>Imenik naslovov za prejemanje</translation>
     </message>
     <message>
-        <source>These are your Anotherscryptcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>To so vaši Anotherscryptcoin naslovi za pošiljanje. Pred pošiljanjem vedno preverite količino in prejemnikov naslov.</translation>
+        <source>These are your AnotherScryptCoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>To so vaši AnotherScryptCoin naslovi za pošiljanje. Pred pošiljanjem vedno preverite količino in prejemnikov naslov.</translation>
     </message>
     <message>
-        <source>These are your Anotherscryptcoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>To so vaši Anotherscryptcoin naslovi za prejemanje. Priporočeno je, da za vsako transakcijo uporabite nov naslov.</translation>
+        <source>These are your AnotherScryptCoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>To so vaši AnotherScryptCoin naslovi za prejemanje. Priporočeno je, da za vsako transakcijo uporabite nov naslov.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -338,8 +338,8 @@
         <translation>Namestniški strežnik je omogočen&lt;/b&gt;: %1</translation>
     </message>
     <message>
-        <source>Send coins to a Anotherscryptcoin address</source>
-        <translation>Izvedite plačilo na naslov Anotherscryptcoin</translation>
+        <source>Send coins to a AnotherScryptCoin address</source>
+        <translation>Izvedite plačilo na naslov AnotherScryptCoin</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -362,8 +362,8 @@
         <translation>&amp;Preveri sporočilo ...</translation>
     </message>
     <message>
-        <source>Anotherscryptcoin</source>
-        <translation>Anotherscryptcoin</translation>
+        <source>AnotherScryptCoin</source>
+        <translation>AnotherScryptCoin</translation>
     </message>
     <message>
         <source>&amp;Send</source>
@@ -386,12 +386,12 @@
         <translation>Šifrirajte zasebne ključe, ki se nahajajo v denarnici</translation>
     </message>
     <message>
-        <source>Sign messages with your Anotherscryptcoin addresses to prove you own them</source>
-        <translation>Podpišite poljubno sporočilo z enim svojih naslovov Anotherscryptcoin, da prejemniku sporočila dokažete, da je ta naslov v vaši lasti.</translation>
+        <source>Sign messages with your AnotherScryptCoin addresses to prove you own them</source>
+        <translation>Podpišite poljubno sporočilo z enim svojih naslovov AnotherScryptCoin, da prejemniku sporočila dokažete, da je ta naslov v vaši lasti.</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Anotherscryptcoin addresses</source>
-        <translation>Preverite, če je bilo prejeto sporočilo podpisano z določenim naslovom Anotherscryptcoin</translation>
+        <source>Verify messages to ensure they were signed with specified AnotherScryptCoin addresses</source>
+        <translation>Preverite, če je bilo prejeto sporočilo podpisano z določenim naslovom AnotherScryptCoin</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -430,8 +430,8 @@
         <translation>Opcije &amp;ukazne vrstice</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Anotherscryptcoin network</source>
-        <translation><numerusform>%n aktivna povezava v omrežje Anotherscryptcoin</numerusform><numerusform>%n aktivni povezavi v omrežje Anotherscryptcoin</numerusform><numerusform>%n aktivne povezave v omrežje Anotherscryptcoin</numerusform><numerusform>%n aktivnih povezav v omrežje Anotherscryptcoin</numerusform></translation>
+        <source>%n active connection(s) to AnotherScryptCoin network</source>
+        <translation><numerusform>%n aktivna povezava v omrežje AnotherScryptCoin</numerusform><numerusform>%n aktivni povezavi v omrežje AnotherScryptCoin</numerusform><numerusform>%n aktivne povezave v omrežje AnotherScryptCoin</numerusform><numerusform>%n aktivnih povezav v omrežje AnotherScryptCoin</numerusform></translation>
     </message>
     <message>
         <source>Indexing blocks on disk...</source>
@@ -498,7 +498,7 @@
         <translation>Zapri denarnico</translation>
     </message>
     <message>
-        <source>Show the %1 help message to get a list with possible Anotherscryptcoin command-line options</source>
+        <source>Show the %1 help message to get a list with possible AnotherScryptCoin command-line options</source>
         <translation>Pokaži %1 sporočilo za pomoč s seznamom vseh možnosti v ukazni vrstici</translation>
     </message>
     <message>
@@ -609,8 +609,8 @@
         <translation>Denarnica je &lt;b&gt;šifrirana&lt;/b&gt; in trenutno &lt;b&gt;zaklenjena&lt;/b&gt;</translation>
     </message>
     <message>
-        <source>A fatal error occurred. Anotherscryptcoin can no longer continue safely and will quit.</source>
-        <translation>Napaka. Anotherscryptcoin ne more več varno nadaljevati in se bo zaprl.</translation>
+        <source>A fatal error occurred. AnotherScryptCoin can no longer continue safely and will quit.</source>
+        <translation>Napaka. AnotherScryptCoin ne more več varno nadaljevati in se bo zaprl.</translation>
     </message>
 </context>
 <context>
@@ -799,8 +799,8 @@
         <translation>Uredi naslov za pošiljanje</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Anotherscryptcoin address.</source>
-        <translation>Vnešeni naslov %1 ni veljaven Anotherscryptcoin naslov.</translation>
+        <source>The entered address "%1" is not a valid AnotherScryptCoin address.</source>
+        <translation>Vnešeni naslov %1 ni veljaven AnotherScryptCoin naslov.</translation>
     </message>
     <message>
         <source>Address "%1" already exists as a receiving address with label "%2" and so cannot be added as a sending address.</source>
@@ -880,8 +880,8 @@
         <translation>Uporabi to podatkovno mapo:</translation>
     </message>
     <message>
-        <source>Anotherscryptcoin</source>
-        <translation>Anotherscryptcoin</translation>
+        <source>AnotherScryptCoin</source>
+        <translation>AnotherScryptCoin</translation>
     </message>
     <message>
         <source>At least %1 GB of data will be stored in this directory, and it will grow over time.</source>
@@ -892,8 +892,8 @@
         <translation>Približno %1 GB podatkov bo shranjenih v tem direktoriju.</translation>
     </message>
     <message>
-        <source>%1 will download and store a copy of the Anotherscryptcoin block chain.</source>
-        <translation>%1 bo prenesel in shranil kopijo Anotherscryptcoin baze podatkovnih blokov.</translation>
+        <source>%1 will download and store a copy of the AnotherScryptCoin block chain.</source>
+        <translation>%1 bo prenesel in shranil kopijo AnotherScryptCoin baze podatkovnih blokov.</translation>
     </message>
     <message>
         <source>The wallet will also be stored in this directory.</source>
@@ -1069,7 +1069,7 @@
         <translation>Omogoči &amp;trošenje drobiža iz še nepotrjenih plačil</translation>
     </message>
     <message>
-        <source>Automatically open the Anotherscryptcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <source>Automatically open the AnotherScryptCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
         <translation>Program samodejno odpre ustrezna vrata na usmerjevalniku. To deluje samo, če vaš usmerjevalnik podpira in ima omogočen UPnP.</translation>
     </message>
     <message>
@@ -1085,8 +1085,8 @@
         <translation>&amp;Dovoli dohodne povezave</translation>
     </message>
     <message>
-        <source>Connect to the Anotherscryptcoin network through a SOCKS5 proxy.</source>
-        <translation>Poveži se v omrežje Anotherscryptcoin preko posredniškega strežnika SOCKS5.</translation>
+        <source>Connect to the AnotherScryptCoin network through a SOCKS5 proxy.</source>
+        <translation>Poveži se v omrežje AnotherScryptCoin preko posredniškega strežnika SOCKS5.</translation>
     </message>
     <message>
         <source>&amp;Connect through SOCKS5 proxy (default proxy):</source>
@@ -1212,8 +1212,8 @@
         <translation>Oblika</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Anotherscryptcoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Prikazani podatki so morda zastareli. Program ob vzpostavitvi povezave samodejno sinhronizira denarnico z omrežjem Anotherscryptcoin, a trenutno ta proces še ni zaključen.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the AnotherScryptCoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Prikazani podatki so morda zastareli. Program ob vzpostavitvi povezave samodejno sinhronizira denarnico z omrežjem AnotherScryptCoin, a trenutno ta proces še ni zaključen.</translation>
     </message>
     <message>
         <source>Watch-only:</source>
@@ -1381,8 +1381,8 @@
         <translation>Znesek</translation>
     </message>
     <message>
-        <source>Enter a Anotherscryptcoin address (e.g. %1)</source>
-        <translation>Vnesite naslov Anotherscryptcoin (npr. %1):</translation>
+        <source>Enter a AnotherScryptCoin address (e.g. %1)</source>
+        <translation>Vnesite naslov AnotherScryptCoin (npr. %1):</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -1761,8 +1761,8 @@
         <translation>&amp;Sporočilo:</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Anotherscryptcoin network.</source>
-        <translation>Neobvezno sporočilo kot priponka zahtevku za plačilo, ki bo prikazano, ko bo zahtevek odprt. Opomba: Opravljeno plačilo.prek omrežja Anotherscryptcoin tega sporočila ne bo vsebovalo.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the AnotherScryptCoin network.</source>
+        <translation>Neobvezno sporočilo kot priponka zahtevku za plačilo, ki bo prikazano, ko bo zahtevek odprt. Opomba: Opravljeno plačilo.prek omrežja AnotherScryptCoin tega sporočila ne bo vsebovalo.</translation>
     </message>
     <message>
         <source>An optional label to associate with the new receiving address.</source>
@@ -2126,8 +2126,8 @@
         <translation>Zahtevek za plačilo je potekel.</translation>
     </message>
     <message>
-        <source>Warning: Invalid Anotherscryptcoin address</source>
-        <translation>Opozorilo: Neveljaven Anotherscryptcoin naslov</translation>
+        <source>Warning: Invalid AnotherScryptCoin address</source>
+        <translation>Opozorilo: Neveljaven AnotherScryptCoin naslov</translation>
     </message>
     <message>
         <source>(no label)</source>
@@ -2157,8 +2157,8 @@
         <translation>Plačilo je navadne vrste.</translation>
     </message>
     <message>
-        <source>The Anotherscryptcoin address to send the payment to</source>
-        <translation>Naslov Anotherscryptcoin, na katerega bo plačilo poslano</translation>
+        <source>The AnotherScryptCoin address to send the payment to</source>
+        <translation>Naslov AnotherScryptCoin, na katerega bo plačilo poslano</translation>
     </message>
     <message>
         <source>Alt+A</source>
@@ -2205,8 +2205,8 @@
         <translation>Če vnesete oznako za zgornji naslov, se bo skupaj z naslovom shranila v imenk že uporabljenih naslovov</translation>
     </message>
     <message>
-        <source>A message that was attached to the anotherscryptcoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Anotherscryptcoin network.</source>
-        <translation>Sporočilo, ki ste ga pripeli na URI tipa anotherscryptcoin:. Shranjeno bo skupaj s podatki o transakciji. Opomba: Sporočilo ne bo poslano preko omrežja Anotherscryptcoin.</translation>
+        <source>A message that was attached to the anotherscryptcoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the AnotherScryptCoin network.</source>
+        <translation>Sporočilo, ki ste ga pripeli na URI tipa anotherscryptcoin:. Shranjeno bo skupaj s podatki o transakciji. Opomba: Sporočilo ne bo poslano preko omrežja AnotherScryptCoin.</translation>
     </message>
     <message>
         <source>Pay To:</source>
@@ -2250,8 +2250,8 @@
         <translation>S svojimi naslovi lahko podpisujete sporočila ali pogodbe in s tem dokazujete, da na teh naslovih lahko prejemate kovance. Bodite previdni in ne podpisujte ničesar nejasnega ali naključnega, ker vas zlikovci preko ribarjenja (phishing) lahko prelisičijo, da na njih prepišete svojo identiteto. Podpisujte samo podrobno opisane izjave, s katerimi se strinjate.</translation>
     </message>
     <message>
-        <source>The Anotherscryptcoin address to sign the message with</source>
-        <translation>Naslov Anotherscryptcoin, s katerim podpisujete sporočilo</translation>
+        <source>The AnotherScryptCoin address to sign the message with</source>
+        <translation>Naslov AnotherScryptCoin, s katerim podpisujete sporočilo</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -2282,7 +2282,7 @@
         <translation>Kopiranje trenutnega podpisa na sistemsko odložišče.</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Anotherscryptcoin address</source>
+        <source>Sign the message to prove you own this AnotherScryptCoin address</source>
         <translation>Podpišite sporočilo, da dokažete lastništvo nad zgornjim naslovom.</translation>
     </message>
     <message>
@@ -2306,12 +2306,12 @@
         <translation>Da preverite verodostojnost sporočila, spodaj vnesite: prejemnikov naslov, prejeto sporočilo (pazljivo skopirajte vse prelome vrstic, presledke, tabulatorje ipd.,) in prejeti podpis. Da se izognete napadom tipa man-in-the-middle, vedite, da iz veljavnega podpisa ne sledi nič drugega, kot tisto, kar je navedeno v sporočilu. Podpis samo potrjuje dejstvo, da ima podpisnik v lasti prejemni naslov, ne more pa dokazati vira nobene transakcije!</translation>
     </message>
     <message>
-        <source>The Anotherscryptcoin address the message was signed with</source>
-        <translation>Naslov Anotherscryptcoin, s katerim je bilo sporočilo podpisano</translation>
+        <source>The AnotherScryptCoin address the message was signed with</source>
+        <translation>Naslov AnotherScryptCoin, s katerim je bilo sporočilo podpisano</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Anotherscryptcoin address</source>
-        <translation>Preverite, ali je bilo sporočilo v resnici podpisano z navedenim naslovom Anotherscryptcoin.</translation>
+        <source>Verify the message to ensure it was signed with the specified AnotherScryptCoin address</source>
+        <translation>Preverite, ali je bilo sporočilo v resnici podpisano z navedenim naslovom AnotherScryptCoin.</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
@@ -2790,8 +2790,8 @@
 <context>
     <name>bitcoin-core</name>
     <message>
-        <source>Anotherscryptcoin Core</source>
-        <translation>Anotherscryptcoin Core</translation>
+        <source>AnotherScryptCoin Core</source>
+        <translation>AnotherScryptCoin Core</translation>
     </message>
     <message>
         <source>The %s developers</source>

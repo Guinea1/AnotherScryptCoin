@@ -66,12 +66,12 @@
         <translation>адрасы Прымання</translation>
     </message>
     <message>
-        <source>These are your Anotherscryptcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Тут знаходзяцца Anotherscryptcoin-адрасы для высылання плацяжоў. Заўсёды спраўджвайце колькасць і адрас прызначэння перад здзяйсненнем транзакцыі.</translation>
+        <source>These are your AnotherScryptCoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Тут знаходзяцца AnotherScryptCoin-адрасы для высылання плацяжоў. Заўсёды спраўджвайце колькасць і адрас прызначэння перад здзяйсненнем транзакцыі.</translation>
     </message>
     <message>
-        <source>These are your Anotherscryptcoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Тут знаходзяцца Anotherscryptcoin-адрасы для прымання плацяжоў. Пажадана выкарыстоўваць новы адрас для кожнай транзакцыі.</translation>
+        <source>These are your AnotherScryptCoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Тут знаходзяцца AnotherScryptCoin-адрасы для прымання плацяжоў. Пажадана выкарыстоўваць новы адрас для кожнай транзакцыі.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -290,8 +290,8 @@
         <translation>Пераіндэксацыя блокаў на дыску...</translation>
     </message>
     <message>
-        <source>Send coins to a Anotherscryptcoin address</source>
-        <translation>Даслаць манеты на Anotherscryptcoin-адрас</translation>
+        <source>Send coins to a AnotherScryptCoin address</source>
+        <translation>Даслаць манеты на AnotherScryptCoin-адрас</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -314,8 +314,8 @@
         <translation>Праверыць паведамленне...</translation>
     </message>
     <message>
-        <source>Anotherscryptcoin</source>
-        <translation>Anotherscryptcoin</translation>
+        <source>AnotherScryptCoin</source>
+        <translation>AnotherScryptCoin</translation>
     </message>
     <message>
         <source>&amp;Send</source>
@@ -338,12 +338,12 @@
         <translation>Зашыфраваць прыватныя ключы, якия належаць вашаму гаманцу</translation>
     </message>
     <message>
-        <source>Sign messages with your Anotherscryptcoin addresses to prove you own them</source>
-        <translation>Падпісаць паведамленне з дапамогай Anotherscryptcoin-адраса каб даказаць, што яно належыць вам</translation>
+        <source>Sign messages with your AnotherScryptCoin addresses to prove you own them</source>
+        <translation>Падпісаць паведамленне з дапамогай AnotherScryptCoin-адраса каб даказаць, што яно належыць вам</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Anotherscryptcoin addresses</source>
-        <translation>Спраўдзіць паведамленне з дапамогай Anotherscryptcoin-адраса каб даказаць, што яно належыць вам</translation>
+        <source>Verify messages to ensure they were signed with specified AnotherScryptCoin addresses</source>
+        <translation>Спраўдзіць паведамленне з дапамогай AnotherScryptCoin-адраса каб даказаць, што яно належыць вам</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -643,8 +643,8 @@
         <translation>Вітаем</translation>
     </message>
     <message>
-        <source>Anotherscryptcoin</source>
-        <translation>Anotherscryptcoin</translation>
+        <source>AnotherScryptCoin</source>
+        <translation>AnotherScryptCoin</translation>
     </message>
     <message>
         <source>Error</source>
@@ -1209,8 +1209,8 @@
 <context>
     <name>bitcoin-core</name>
     <message>
-        <source>Anotherscryptcoin Core</source>
-        <translation>Anotherscryptcoin Core</translation>
+        <source>AnotherScryptCoin Core</source>
+        <translation>AnotherScryptCoin Core</translation>
     </message>
     <message>
         <source>Do you want to rebuild the block database now?</source>

@@ -1,7 +1,7 @@
-Contributing to Anotherscryptcoin Core
+Contributing to AnotherScryptCoin Core
 ============================
 
-The Anotherscryptcoin Core project operates an open contributor model where anyone is
+The AnotherScryptCoin Core project operates an open contributor model where anyone is
 welcome to contribute towards development in the form of peer review, testing
 and patches. This document explains the practical process and guidelines for
 contributing.
@@ -17,7 +17,7 @@ release cycle, overall merging, moderation and appointment of maintainers.
 Communication Channels
 ----------------------
 
-Most communication about Anotherscryptcoin Core development happens on IRC, in the
+Most communication about AnotherScryptCoin Core development happens on IRC, in the
 #anotherscryptcoin-dev channel on Freenode. The easiest way to participate on IRC is
 with the web client, [webchat.freenode.net](https://webchat.freenode.net/).
 
@@ -192,11 +192,11 @@ workload on reviewing.
 "Decision Making" Process
 -------------------------
 
-The following applies to code changes to the Anotherscryptcoin Core project (and related
-projects such as libsecp256k1), and is not to be confused with overall Anotherscryptcoin
+The following applies to code changes to the AnotherScryptCoin Core project (and related
+projects such as libsecp256k1), and is not to be confused with overall AnotherScryptCoin
 Network Protocol consensus changes.
 
-Whether a pull request is merged into Anotherscryptcoin Core rests with the project merge
+Whether a pull request is merged into AnotherScryptCoin Core rests with the project merge
 maintainers and ultimately the project lead.
 
 Maintainers will take into consideration if a patch is in line with the general
@@ -214,7 +214,7 @@ In general, all pull requests must:
   - Where bugs are fixed, where possible, there should be unit tests
     demonstrating the bug and also proving the fix. This helps prevent regression.
 
-Patches that change Anotherscryptcoin consensus rules are considerably more involved than
+Patches that change AnotherScryptCoin consensus rules are considerably more involved than
 normal because they affect the entire ecosystem and so must be preceded by
 extensive mailing list discussions and have a numbered BIP. While each case will
 be different, one should be prepared to expend more time and effort than for
@@ -255,7 +255,7 @@ higher in terms of discussion and peer review requirements, keeping in mind that
 mistakes could be very costly to the wider community. This includes refactoring
 of consensus critical code.
 
-Where a patch set proposes to change the Anotherscryptcoin consensus, it must have been
+Where a patch set proposes to change the AnotherScryptCoin consensus, it must have been
 discussed extensively on the mailing list and IRC, be accompanied by a widely
 discussed BIP and have a generally widely perceived technical consensus of being
 a worthwhile change based on the judgement of the maintainers.
@@ -295,7 +295,7 @@ about:
 Release Policy
 --------------
 
-The project leader is the release manager for each Anotherscryptcoin Core release.
+The project leader is the release manager for each AnotherScryptCoin Core release.
 
 Copyright
 ---------

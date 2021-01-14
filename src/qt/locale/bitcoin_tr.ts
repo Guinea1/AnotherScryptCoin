@@ -66,12 +66,12 @@
         <translation>Alım adresleri</translation>
     </message>
     <message>
-        <source>These are your Anotherscryptcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Bunlar ödemeleri göndermek için kullanacağınız Anotherscryptcoin adreslerinizdir. Anotherscryptcoin yollamadan önce tutarı ve alıcının alım adresini her zaman kontrol ediniz.</translation>
+        <source>These are your AnotherScryptCoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Bunlar ödemeleri göndermek için kullanacağınız AnotherScryptCoin adreslerinizdir. AnotherScryptCoin yollamadan önce tutarı ve alıcının alım adresini her zaman kontrol ediniz.</translation>
     </message>
     <message>
-        <source>These are your Anotherscryptcoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Bunlar ödemeleri almak için kullanacağınız Anotherscryptcoin adreslerinizdir. Her işlem için yeni bir alım adresi kullanmanız tavsiye edilir.</translation>
+        <source>These are your AnotherScryptCoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Bunlar ödemeleri almak için kullanacağınız AnotherScryptCoin adreslerinizdir. Her işlem için yeni bir alım adresi kullanmanız tavsiye edilir.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -338,7 +338,7 @@
         <translation>Tünelleme &lt;b&gt;etkin&lt;/b&gt;: %1</translation>
     </message>
     <message>
-        <source>Send coins to a Anotherscryptcoin address</source>
+        <source>Send coins to a AnotherScryptCoin address</source>
         <translation>Bir anotherscryptcoin adresine anotherscryptcoin gönder</translation>
     </message>
     <message>
@@ -362,8 +362,8 @@
         <translation>İletiyi &amp;kontrol et...</translation>
     </message>
     <message>
-        <source>Anotherscryptcoin</source>
-        <translation>Anotherscryptcoin</translation>
+        <source>AnotherScryptCoin</source>
+        <translation>AnotherScryptCoin</translation>
     </message>
     <message>
         <source>&amp;Send</source>
@@ -386,12 +386,12 @@
         <translation>Cüzdanınıza ait özel anahtarları şifreleyin</translation>
     </message>
     <message>
-        <source>Sign messages with your Anotherscryptcoin addresses to prove you own them</source>
-        <translation>İletileri adreslerin size ait olduğunu ispatlamak için Anotherscryptcoin adresleri ile imzala</translation>
+        <source>Sign messages with your AnotherScryptCoin addresses to prove you own them</source>
+        <translation>İletileri adreslerin size ait olduğunu ispatlamak için AnotherScryptCoin adresleri ile imzala</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Anotherscryptcoin addresses</source>
-        <translation>Belirtilen Anotherscryptcoin adresleri ile imzalandıklarından emin olmak için iletileri kontrol et</translation>
+        <source>Verify messages to ensure they were signed with specified AnotherScryptCoin addresses</source>
+        <translation>Belirtilen AnotherScryptCoin adresleri ile imzalandıklarından emin olmak için iletileri kontrol et</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -430,8 +430,8 @@
         <translation>&amp;Komut satırı seçenekleri</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Anotherscryptcoin network</source>
-        <translation><numerusform>Anotherscryptcoin şebekesine %n faal bağlantı</numerusform><numerusform>Anotherscryptcoin ağına %n etkin bağlantı var</numerusform></translation>
+        <source>%n active connection(s) to AnotherScryptCoin network</source>
+        <translation><numerusform>AnotherScryptCoin şebekesine %n faal bağlantı</numerusform><numerusform>AnotherScryptCoin ağına %n etkin bağlantı var</numerusform></translation>
     </message>
     <message>
         <source>Indexing blocks on disk...</source>
@@ -474,8 +474,8 @@
         <translation>Güncel</translation>
     </message>
     <message>
-        <source>Show the %1 help message to get a list with possible Anotherscryptcoin command-line options</source>
-        <translation>Olası Anotherscryptcoin komut satırı seçeneklerinin listesini görmek için %1 yardım mesajını göster</translation>
+        <source>Show the %1 help message to get a list with possible AnotherScryptCoin command-line options</source>
+        <translation>Olası AnotherScryptCoin komut satırı seçeneklerinin listesini görmek için %1 yardım mesajını göster</translation>
     </message>
     <message>
         <source>default wallet</source>
@@ -562,15 +562,15 @@
         <translation>Cüzdan &lt;b&gt;şifrelenmiştir&lt;/b&gt; ve şu anda &lt;b&gt;kilitlidir&lt;/b&gt;</translation>
     </message>
     <message>
-        <source>A fatal error occurred. Anotherscryptcoin can no longer continue safely and will quit.</source>
-        <translation>Ölümcül bir hata oluştu. Anotherscryptcoin yazılımı artık güvenli bir şekilde çalışmaya devam edemediği için kapatılacaktır.</translation>
+        <source>A fatal error occurred. AnotherScryptCoin can no longer continue safely and will quit.</source>
+        <translation>Ölümcül bir hata oluştu. AnotherScryptCoin yazılımı artık güvenli bir şekilde çalışmaya devam edemediği için kapatılacaktır.</translation>
     </message>
 </context>
 <context>
     <name>CoinControlDialog</name>
     <message>
         <source>Coin Selection</source>
-        <translation>Anotherscryptcoin Seçimi</translation>
+        <translation>AnotherScryptCoin Seçimi</translation>
     </message>
     <message>
         <source>Quantity:</source>
@@ -752,8 +752,8 @@
         <translation>Gönderi adresini düzenle</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Anotherscryptcoin address.</source>
-        <translation>Girilen "%1" adresi geçerli bir Anotherscryptcoin adresi değildir.</translation>
+        <source>The entered address "%1" is not a valid AnotherScryptCoin address.</source>
+        <translation>Girilen "%1" adresi geçerli bir AnotherScryptCoin adresi değildir.</translation>
     </message>
     <message>
         <source>Address "%1" already exists as a receiving address with label "%2" and so cannot be added as a sending address.</source>
@@ -837,8 +837,8 @@
         <translation>Özel bir veri klasörü kullan:</translation>
     </message>
     <message>
-        <source>Anotherscryptcoin</source>
-        <translation>Anotherscryptcoin</translation>
+        <source>AnotherScryptCoin</source>
+        <translation>AnotherScryptCoin</translation>
     </message>
     <message>
         <source>Approximately %1 GB of data will be stored in this directory.</source>
@@ -1050,8 +1050,8 @@
         <translation>Doğrulanmamış para üstünü &amp;harca</translation>
     </message>
     <message>
-        <source>Automatically open the Anotherscryptcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Yönlendiricide Anotherscryptcoin istemci portlarını otomatik olarak açar. Bu, sadece yönlendiricinizin UPnP desteği bulunuyorsa ve etkinse çalışabilir.</translation>
+        <source>Automatically open the AnotherScryptCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Yönlendiricide AnotherScryptCoin istemci portlarını otomatik olarak açar. Bu, sadece yönlendiricinizin UPnP desteği bulunuyorsa ve etkinse çalışabilir.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -1066,8 +1066,8 @@
         <translation>Gelen bağlantılara izin ver</translation>
     </message>
     <message>
-        <source>Connect to the Anotherscryptcoin network through a SOCKS5 proxy.</source>
-        <translation>Anotherscryptcoin ağına bir SOCKS5 vekil sunucusu aracılığıyla bağlan.</translation>
+        <source>Connect to the AnotherScryptCoin network through a SOCKS5 proxy.</source>
+        <translation>AnotherScryptCoin ağına bir SOCKS5 vekil sunucusu aracılığıyla bağlan.</translation>
     </message>
     <message>
         <source>&amp;Connect through SOCKS5 proxy (default proxy):</source>
@@ -1102,8 +1102,8 @@
         <translation>Tor</translation>
     </message>
     <message>
-        <source>Connect to the Anotherscryptcoin network through a separate SOCKS5 proxy for Tor hidden services.</source>
-        <translation>Anotherscryptcoin ağına gizli Tor servisleri için ayrı bir SOCKS5 vekil sunucusu aracılığıyla bağlan.</translation>
+        <source>Connect to the AnotherScryptCoin network through a separate SOCKS5 proxy for Tor hidden services.</source>
+        <translation>AnotherScryptCoin ağına gizli Tor servisleri için ayrı bir SOCKS5 vekil sunucusu aracılığıyla bağlan.</translation>
     </message>
     <message>
         <source>&amp;Window</source>
@@ -1139,7 +1139,7 @@
     </message>
     <message>
         <source>Choose the default subdivision unit to show in the interface and when sending coins.</source>
-        <translation>Anotherscryptcoin gönderildiğinde arayüzde gösterilecek varsayılan alt birimi seçiniz.</translation>
+        <translation>AnotherScryptCoin gönderildiğinde arayüzde gösterilecek varsayılan alt birimi seçiniz.</translation>
     </message>
     <message>
         <source>Whether to show coin control features or not.</source>
@@ -1209,8 +1209,8 @@
         <translation>Form</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Anotherscryptcoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Görüntülenen bilgiler güncel olmayabilir. Bağlantı kurulduğunda cüzdanınız otomatik olarak Anotherscryptcoin ağı ile senkronize olur ancak bu işlem henüz tamamlanmamıştır.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the AnotherScryptCoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Görüntülenen bilgiler güncel olmayabilir. Bağlantı kurulduğunda cüzdanınız otomatik olarak AnotherScryptCoin ağı ile senkronize olur ancak bu işlem henüz tamamlanmamıştır.</translation>
     </message>
     <message>
         <source>Watch-only:</source>
@@ -1285,7 +1285,7 @@
     </message>
     <message>
         <source>Cannot start anotherscryptcoin: click-to-pay handler</source>
-        <translation>Anotherscryptcoin başlatılamadı: tıkla-ve-öde yöneticisi</translation>
+        <translation>AnotherScryptCoin başlatılamadı: tıkla-ve-öde yöneticisi</translation>
     </message>
     <message>
         <source>URI handling</source>
@@ -1304,8 +1304,8 @@
         <translation>%1 ödeme adresi geçersizdir</translation>
     </message>
     <message>
-        <source>URI cannot be parsed! This can be caused by an invalid Anotherscryptcoin address or malformed URI parameters.</source>
-        <translation>URI ayrıştırılamıyor! Bunun nedeni geçersiz bir Anotherscryptcoin adresi veya hatalı biçimlendirilmiş URI değişkenleri olabilir.</translation>
+        <source>URI cannot be parsed! This can be caused by an invalid AnotherScryptCoin address or malformed URI parameters.</source>
+        <translation>URI ayrıştırılamıyor! Bunun nedeni geçersiz bir AnotherScryptCoin adresi veya hatalı biçimlendirilmiş URI değişkenleri olabilir.</translation>
     </message>
     <message>
         <source>Payment request file handling</source>
@@ -1406,8 +1406,8 @@
         <translation>Tutar</translation>
     </message>
     <message>
-        <source>Enter a Anotherscryptcoin address (e.g. %1)</source>
-        <translation>Bir Anotherscryptcoin adresi giriniz (mesela %1)</translation>
+        <source>Enter a AnotherScryptCoin address (e.g. %1)</source>
+        <translation>Bir AnotherScryptCoin adresi giriniz (mesela %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -1788,7 +1788,7 @@
     </message>
     <message>
         <source>WARNING: Scammers have been active, telling users to type commands here, stealing their wallet contents. Do not use this console without fully understanding the ramifications of a command.</source>
-        <translation>UYARI: Anotherscryptcoin dolandırıcılarının çok fazla etkin olduğu zamanlarda, dolandırıcılar bazı kullanıcılara buraya komutlar yazmalarını söylerek onların cüzdanlarındaki anotherscryptcoinleri çalmışlardır. Bir komutun sonuçlarını tam olarak anlamadan bu konsolu kullanmayın.</translation>
+        <translation>UYARI: AnotherScryptCoin dolandırıcılarının çok fazla etkin olduğu zamanlarda, dolandırıcılar bazı kullanıcılara buraya komutlar yazmalarını söylerek onların cüzdanlarındaki anotherscryptcoinleri çalmışlardır. Bir komutun sonuçlarını tam olarak anlamadan bu konsolu kullanmayın.</translation>
     </message>
     <message>
         <source>Network activity disabled</source>
@@ -1850,8 +1850,8 @@
         <translation>&amp;İleti:</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Anotherscryptcoin network.</source>
-        <translation>Talep açıldığında gösterilecek, isteğinize dayalı, ödeme talebi ile ilişkilendirilecek bir ileti. Not: Bu ileti ödeme ile birlikte Anotherscryptcoin ağı üzerinden gönderilmeyecektir.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the AnotherScryptCoin network.</source>
+        <translation>Talep açıldığında gösterilecek, isteğinize dayalı, ödeme talebi ile ilişkilendirilecek bir ileti. Not: Bu ileti ödeme ile birlikte AnotherScryptCoin ağı üzerinden gönderilmeyecektir.</translation>
     </message>
     <message>
         <source>An optional label to associate with the new receiving address.</source>
@@ -2012,7 +2012,7 @@
     <name>SendCoinsDialog</name>
     <message>
         <source>Send Coins</source>
-        <translation>Anotherscryptcoin yolla</translation>
+        <translation>AnotherScryptCoin yolla</translation>
     </message>
     <message>
         <source>Coin Control Features</source>
@@ -2196,7 +2196,7 @@
     </message>
     <message>
         <source>Confirm send coins</source>
-        <translation>Anotherscryptcoin gönderimini onaylayın</translation>
+        <translation>AnotherScryptCoin gönderimini onaylayın</translation>
     </message>
     <message>
         <source>The recipient address is not valid. Please recheck.</source>
@@ -2235,8 +2235,8 @@
         <translation>Ödeme talebinin geçerlilik süresi bitti.</translation>
     </message>
     <message>
-        <source>Warning: Invalid Anotherscryptcoin address</source>
-        <translation>Uyarı: geçersiz Anotherscryptcoin adresi</translation>
+        <source>Warning: Invalid AnotherScryptCoin address</source>
+        <translation>Uyarı: geçersiz AnotherScryptCoin adresi</translation>
     </message>
     <message>
         <source>Warning: Unknown change address</source>
@@ -2278,8 +2278,8 @@
         <translation>Bu, normal bir ödemedir.</translation>
     </message>
     <message>
-        <source>The Anotherscryptcoin address to send the payment to</source>
-        <translation>Ödemenin yollanacağı Anotherscryptcoin adresi</translation>
+        <source>The AnotherScryptCoin address to send the payment to</source>
+        <translation>Ödemenin yollanacağı AnotherScryptCoin adresi</translation>
     </message>
     <message>
         <source>Alt+A</source>
@@ -2326,8 +2326,8 @@
         <translation>Kullanılmış adres listesine eklemek için bu adrese bir etiket girin</translation>
     </message>
     <message>
-        <source>A message that was attached to the anotherscryptcoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Anotherscryptcoin network.</source>
-        <translation>Referans için anotherscryptcoin: URI'siyle iliştirilmiş işlemle birlikte depolanacak bir ileti. Not: Bu mesaj Anotherscryptcoin ağı üzerinden gönderilmeyecektir.</translation>
+        <source>A message that was attached to the anotherscryptcoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the AnotherScryptCoin network.</source>
+        <translation>Referans için anotherscryptcoin: URI'siyle iliştirilmiş işlemle birlikte depolanacak bir ileti. Not: Bu mesaj AnotherScryptCoin ağı üzerinden gönderilmeyecektir.</translation>
     </message>
     <message>
         <source>Pay To:</source>
@@ -2375,8 +2375,8 @@
         <translation>Adreslerinize yollanan anotherscryptcoinleri alabileceğiniz ispatlamak için adreslerinizle iletiler/anlaşmalar imzalayabilirsiniz. Oltalama saldırılarının kimliğinizi imzanızla elde etmeyi deneyebilecekleri için belirsiz ya da rastgele hiçbir şey imzalamamaya dikkat ediniz. Sadece ayrıntılı açıklaması olan ve tümüne katıldığınız ifadeleri imzalayınız.</translation>
     </message>
     <message>
-        <source>The Anotherscryptcoin address to sign the message with</source>
-        <translation>İletinin imzalanmasında kullanılacak Anotherscryptcoin adresi</translation>
+        <source>The AnotherScryptCoin address to sign the message with</source>
+        <translation>İletinin imzalanmasında kullanılacak AnotherScryptCoin adresi</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -2407,8 +2407,8 @@
         <translation>Güncel imzayı sistem panosuna kopyala</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Anotherscryptcoin address</source>
-        <translation>Bu Anotherscryptcoin adresinin sizin olduğunu ispatlamak için iletiyi imzalayın</translation>
+        <source>Sign the message to prove you own this AnotherScryptCoin address</source>
+        <translation>Bu AnotherScryptCoin adresinin sizin olduğunu ispatlamak için iletiyi imzalayın</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -2431,12 +2431,12 @@
         <translation>Alıcının adresini, iletiyi (satır sonları, boşluklar, sekmeler vs. karakterleri tam olarak kopyaladığınızdan emin olunuz) ve imzayı aşağıya giriniz. Bir ortadaki adam saldırısı tarafından kandırılmaya engel olmak için imzadan, imzalı iletinin içeriğini aşan bir anlam çıkarmamaya dikkat ediniz. Bunun sadece imzalayan tarafın adres ile alım yapabildiğini ispatladığını ve herhangi bir işlemin gönderi tarafını kanıtlayamayacağını unutmayınız!</translation>
     </message>
     <message>
-        <source>The Anotherscryptcoin address the message was signed with</source>
-        <translation>İletinin imzalanmasında kullanılan Anotherscryptcoin adresi</translation>
+        <source>The AnotherScryptCoin address the message was signed with</source>
+        <translation>İletinin imzalanmasında kullanılan AnotherScryptCoin adresi</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Anotherscryptcoin address</source>
-        <translation>Belirtilen Anotherscryptcoin adresi ile imzalandığını doğrulamak için iletiyi kontrol et</translation>
+        <source>Verify the message to ensure it was signed with the specified AnotherScryptCoin address</source>
+        <translation>Belirtilen AnotherScryptCoin adresi ile imzalandığını doğrulamak için iletiyi kontrol et</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
@@ -2974,7 +2974,7 @@
     <name>WalletModel</name>
     <message>
         <source>Send Coins</source>
-        <translation>Anotherscryptcoini Gönder</translation>
+        <translation>AnotherScryptCoini Gönder</translation>
     </message>
     <message>
         <source>Increasing transaction fee failed</source>
@@ -3079,8 +3079,8 @@
         <translation>HTTP sunucusu başlatılamadı. Ayrıntılar için debug.log dosyasına bakınız.</translation>
     </message>
     <message>
-        <source>Anotherscryptcoin Core</source>
-        <translation>Anotherscryptcoin Çekirdeği</translation>
+        <source>AnotherScryptCoin Core</source>
+        <translation>AnotherScryptCoin Çekirdeği</translation>
     </message>
     <message>
         <source>The %s developers</source>

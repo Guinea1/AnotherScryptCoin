@@ -29,16 +29,16 @@
   <string>????</string>
 
   <key>CFBundleExecutable</key>
-  <string>Anotherscryptcoin-Qt</string>
+  <string>AnotherScryptCoin-Qt</string>
   
   <key>CFBundleName</key>
-  <string>Anotherscryptcoin-Qt</string>
+  <string>AnotherScryptCoin-Qt</string>
 
   <key>LSHasLocalizedDisplayName</key>
   <true/>
 
   <key>CFBundleIdentifier</key>
-  <string>org.anotherscryptcoin.Anotherscryptcoin-Qt</string>
+  <string>org.anotherscryptcoin.AnotherScryptCoin-Qt</string>
 
   <key>CFBundleURLTypes</key>
   <array>
@@ -46,7 +46,7 @@
       <key>CFBundleTypeRole</key>
       <string>Editor</string>
       <key>CFBundleURLName</key>
-      <string>org.anotherscryptcoin.AnotherscryptcoinPayment</string>
+      <string>org.anotherscryptcoin.AnotherScryptCoinPayment</string>
       <key>CFBundleURLSchemes</key>
       <array>
         <string>anotherscryptcoin</string>
@@ -60,7 +60,7 @@
       <key>UTTypeIdentifier</key>
       <string>org.anotherscryptcoin.paymentrequest</string>
       <key>UTTypeDescription</key>
-      <string>Anotherscryptcoin payment request</string>
+      <string>AnotherScryptCoin payment request</string>
       <key>UTTypeConformsTo</key>
       <array>
         <string>public.data</string>

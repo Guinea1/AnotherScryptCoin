@@ -66,11 +66,11 @@
         <translation>آدرس‌های گیرنده</translation>
     </message>
     <message>
-        <source>These are your Anotherscryptcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <source>These are your AnotherScryptCoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
         <translation>اینها آدرس‌های شما برای ارسال وجوه هستند. همیشه قبل از ارسال، مقدار و آدرس گیرنده را بررسی کنید.</translation>
     </message>
     <message>
-        <source>These are your Anotherscryptcoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <source>These are your AnotherScryptCoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
         <translation>اینها آدرس‌های بیتکوین شما برای دریافت وجوه هستند. توصیه می‌شود برای هر دریافت از یک آدرس جدید استفاده کنید.</translation>
     </message>
     <message>
@@ -177,7 +177,7 @@
     </message>
     <message>
         <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR LITECOINS&lt;/b&gt;!</source>
-        <translation>اخطار: اگر کیف‌پول خود را رمزگذاری کرده و رمز خود را فراموش کنید، شما &lt;b&gt;تمام Anotherscryptcoin‌های خود را از دست خواهید داد&lt;/b&gt;!</translation>
+        <translation>اخطار: اگر کیف‌پول خود را رمزگذاری کرده و رمز خود را فراموش کنید، شما &lt;b&gt;تمام AnotherScryptCoin‌های خود را از دست خواهید داد&lt;/b&gt;!</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
@@ -334,7 +334,7 @@
         <translation>فهرست‌بندی نمایه بلاک‌ها…</translation>
     </message>
     <message>
-        <source>Send coins to a Anotherscryptcoin address</source>
+        <source>Send coins to a AnotherScryptCoin address</source>
         <translation>ارسال کوین به آدرس anotherscryptcoin</translation>
     </message>
     <message>
@@ -358,7 +358,7 @@
         <translation>تایید پیام</translation>
     </message>
     <message>
-        <source>Anotherscryptcoin</source>
+        <source>AnotherScryptCoin</source>
         <translation>anotherscryptcoin</translation>
     </message>
     <message>
@@ -382,12 +382,12 @@
         <translation>رمزنگاری کلیدهای شخصی متعلق به کیف‌پول</translation>
     </message>
     <message>
-        <source>Sign messages with your Anotherscryptcoin addresses to prove you own them</source>
-        <translation>پیام‌ها را با آدرس Anotherscryptcoin خود امضا کنید تا مالکیت آن‌ها را اثبات کنید</translation>
+        <source>Sign messages with your AnotherScryptCoin addresses to prove you own them</source>
+        <translation>پیام‌ها را با آدرس AnotherScryptCoin خود امضا کنید تا مالکیت آن‌ها را اثبات کنید</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Anotherscryptcoin addresses</source>
-        <translation>پیام‌ها را تائید کنید تا از امضاشدن آن‌ها با آدرس Anotherscryptcoin مطمئن شوید</translation>
+        <source>Verify messages to ensure they were signed with specified AnotherScryptCoin addresses</source>
+        <translation>پیام‌ها را تائید کنید تا از امضاشدن آن‌ها با آدرس AnotherScryptCoin مطمئن شوید</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -407,7 +407,7 @@
     </message>
     <message>
         <source>Request payments (generates QR codes and anotherscryptcoin: URIs)</source>
-        <translation>درخواست پرداخت (ساخت کد QR و Anotherscryptcoin: URIs)</translation>
+        <translation>درخواست پرداخت (ساخت کد QR و AnotherScryptCoin: URIs)</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -419,15 +419,15 @@
     </message>
     <message>
         <source>Open a anotherscryptcoin: URI or payment request</source>
-        <translation>بازکردن Anotherscryptcoin: آدرس یا درخواست پرداخت</translation>
+        <translation>بازکردن AnotherScryptCoin: آدرس یا درخواست پرداخت</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
         <translation>گزینه های خط فرمان</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Anotherscryptcoin network</source>
-        <translation><numerusform>%n ارتباط فعال به شبکه Anotherscryptcoin</numerusform><numerusform>%n ارتباط فعال به شبکه Anotherscryptcoin</numerusform></translation>
+        <source>%n active connection(s) to AnotherScryptCoin network</source>
+        <translation><numerusform>%n ارتباط فعال به شبکه AnotherScryptCoin</numerusform><numerusform>%n ارتباط فعال به شبکه AnotherScryptCoin</numerusform></translation>
     </message>
     <message>
         <source>Indexing blocks on disk...</source>
@@ -538,7 +538,7 @@
         <translation>wallet رمزگذاری شد و در حال حاضر قفل است</translation>
     </message>
     <message>
-        <source>A fatal error occurred. Anotherscryptcoin can no longer continue safely and will quit.</source>
+        <source>A fatal error occurred. AnotherScryptCoin can no longer continue safely and will quit.</source>
         <translation>خطای بحرانی رخ داده است. بیتکوین دیگر به صورت ایمن قادر به ادامه دادن نمی‌باشد و خارج خواهد شد.</translation>
     </message>
 </context>
@@ -696,7 +696,7 @@
         <translation>ویرایش آدرس ارسالی</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Anotherscryptcoin address.</source>
+        <source>The entered address "%1" is not a valid AnotherScryptCoin address.</source>
         <translation>آدرس وارد شده "%1" آدرس معتبر anotherscryptcoin نیست.</translation>
     </message>
     <message>
@@ -753,7 +753,7 @@
         <translation>استفاده کردن از پوشه داده مخصوص:</translation>
     </message>
     <message>
-        <source>Anotherscryptcoin</source>
+        <source>AnotherScryptCoin</source>
         <translation>anotherscryptcoin</translation>
     </message>
     <message>
@@ -907,7 +907,7 @@
         <translation>شبکه Tor</translation>
     </message>
     <message>
-        <source>Connect to the Anotherscryptcoin network through a separate SOCKS5 proxy for Tor hidden services.</source>
+        <source>Connect to the AnotherScryptCoin network through a separate SOCKS5 proxy for Tor hidden services.</source>
         <translation>اتصال به شبکه anotherscryptcoin با استفاده از پراکسی SOCKS5 برای استفاده از سرویس مخفی تور</translation>
     </message>
     <message>
@@ -990,7 +990,7 @@
         <translation>فرم</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Anotherscryptcoin network after a connection is established, but this process has not completed yet.</source>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the AnotherScryptCoin network after a connection is established, but this process has not completed yet.</source>
         <translation>اطلاعات نمایش داده شده ممکن است روزآمد نباشد. wallet شما به صورت خودکار بعد از برقراری اتصال با شبکه anotherscryptcoin به روز می شود اما این فرایند هنوز تکمیل نشده است.</translation>
     </message>
     <message>
@@ -1712,7 +1712,7 @@ Note:  Since the fee is calculated on a per-byte basis, a fee of "100 satoshis p
         <translation>درخواست پرداخت منقضی شد یا تاریخ آن گذشت.</translation>
     </message>
     <message>
-        <source>Warning: Invalid Anotherscryptcoin address</source>
+        <source>Warning: Invalid AnotherScryptCoin address</source>
         <translation>هشدار: آدرس anotherscryptcoin نامعتبر</translation>
     </message>
     <message>
@@ -1755,7 +1755,7 @@ Note:  Since the fee is calculated on a per-byte basis, a fee of "100 satoshis p
         <translation>این پرداحت,عادی هست.</translation>
     </message>
     <message>
-        <source>The Anotherscryptcoin address to send the payment to</source>
+        <source>The AnotherScryptCoin address to send the payment to</source>
         <translation>آدرس anotherscryptcoin برای ارسال پرداحت به آن</translation>
     </message>
     <message>
@@ -1844,8 +1844,8 @@ Note:  Since the fee is calculated on a per-byte basis, a fee of "100 satoshis p
         <translation>امضا</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Anotherscryptcoin address</source>
-        <translation>پیام را امضا کنید تا ثابت کنید این آدرس Anotherscryptcoin متعلق به شماست</translation>
+        <source>Sign the message to prove you own this AnotherScryptCoin address</source>
+        <translation>پیام را امضا کنید تا ثابت کنید این آدرس AnotherScryptCoin متعلق به شماست</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -1860,8 +1860,8 @@ Note:  Since the fee is calculated on a per-byte basis, a fee of "100 satoshis p
         <translation>تایید پیام</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Anotherscryptcoin address</source>
-        <translation>پیام را تایید کنید تا مطمئن شوید که توسط آدرس Anotherscryptcoin مشخص شده امضا شده است.</translation>
+        <source>Verify the message to ensure it was signed with the specified AnotherScryptCoin address</source>
+        <translation>پیام را تایید کنید تا مطمئن شوید که توسط آدرس AnotherScryptCoin مشخص شده امضا شده است.</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
@@ -2305,7 +2305,7 @@ Note:  Since the fee is calculated on a per-byte basis, a fee of "100 satoshis p
 <context>
     <name>bitcoin-core</name>
     <message>
-        <source>Anotherscryptcoin Core</source>
+        <source>AnotherScryptCoin Core</source>
         <translation>هسته anotherscryptcoin</translation>
     </message>
     <message>

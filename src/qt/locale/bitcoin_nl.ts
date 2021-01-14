@@ -66,12 +66,12 @@
         <translation>Ontvangstadressen</translation>
     </message>
     <message>
-        <source>These are your Anotherscryptcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Dit zijn uw Anotherscryptcoinadressen om betalingen mee te verzenden. Controleer altijd het bedrag en het ontvangstadres voordat u uw anotherscryptcoins verzendt.</translation>
+        <source>These are your AnotherScryptCoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Dit zijn uw AnotherScryptCoinadressen om betalingen mee te verzenden. Controleer altijd het bedrag en het ontvangstadres voordat u uw anotherscryptcoins verzendt.</translation>
     </message>
     <message>
-        <source>These are your Anotherscryptcoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Dit zijn uw Anotherscryptcoin-adressen waarmee u betalingen kunt ontvangen. We raden u aan om een nieuw ontvangstadres voor elke transactie te gebruiken.</translation>
+        <source>These are your AnotherScryptCoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Dit zijn uw AnotherScryptCoin-adressen waarmee u betalingen kunt ontvangen. We raden u aan om een nieuw ontvangstadres voor elke transactie te gebruiken.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -342,8 +342,8 @@
         <translation>Proxy is &lt;b&gt;ingeschakeld&lt;/b&gt;: %1</translation>
     </message>
     <message>
-        <source>Send coins to a Anotherscryptcoin address</source>
-        <translation>Verstuur munten naar een Anotherscryptcoinadres</translation>
+        <source>Send coins to a AnotherScryptCoin address</source>
+        <translation>Verstuur munten naar een AnotherScryptCoinadres</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -366,8 +366,8 @@
         <translation>&amp;Verifiëer bericht...</translation>
     </message>
     <message>
-        <source>Anotherscryptcoin</source>
-        <translation>Anotherscryptcoin</translation>
+        <source>AnotherScryptCoin</source>
+        <translation>AnotherScryptCoin</translation>
     </message>
     <message>
         <source>&amp;Send</source>
@@ -390,12 +390,12 @@
         <translation>Versleutel de geheime sleutels die bij uw portemonnee horen</translation>
     </message>
     <message>
-        <source>Sign messages with your Anotherscryptcoin addresses to prove you own them</source>
-        <translation>Onderteken berichten met uw Anotherscryptcoinadressen om te bewijzen dat u deze adressen bezit</translation>
+        <source>Sign messages with your AnotherScryptCoin addresses to prove you own them</source>
+        <translation>Onderteken berichten met uw AnotherScryptCoinadressen om te bewijzen dat u deze adressen bezit</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Anotherscryptcoin addresses</source>
-        <translation>Verifiëer handtekeningen om zeker te zijn dat de berichten zijn ondertekend met de gespecificeerde Anotherscryptcoinadressen</translation>
+        <source>Verify messages to ensure they were signed with specified AnotherScryptCoin addresses</source>
+        <translation>Verifiëer handtekeningen om zeker te zijn dat de berichten zijn ondertekend met de gespecificeerde AnotherScryptCoinadressen</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -434,8 +434,8 @@
         <translation>&amp;Opdrachtregelopties</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Anotherscryptcoin network</source>
-        <translation><numerusform>%n actieve verbinding met Anotherscryptcoinnetwerk</numerusform><numerusform>%n actieve verbindingen met Anotherscryptcoinnetwerk</numerusform></translation>
+        <source>%n active connection(s) to AnotherScryptCoin network</source>
+        <translation><numerusform>%n actieve verbinding met AnotherScryptCoinnetwerk</numerusform><numerusform>%n actieve verbindingen met AnotherScryptCoinnetwerk</numerusform></translation>
     </message>
     <message>
         <source>Indexing blocks on disk...</source>
@@ -502,8 +502,8 @@
         <translation>Portemonnee Sluiten</translation>
     </message>
     <message>
-        <source>Show the %1 help message to get a list with possible Anotherscryptcoin command-line options</source>
-        <translation>Toon het %1 hulpbericht om een lijst te krijgen met mogelijke Anotherscryptcoin commandoregelopties</translation>
+        <source>Show the %1 help message to get a list with possible AnotherScryptCoin command-line options</source>
+        <translation>Toon het %1 hulpbericht om een lijst te krijgen met mogelijke AnotherScryptCoin commandoregelopties</translation>
     </message>
     <message>
         <source>default wallet</source>
@@ -614,8 +614,8 @@
         <translation>Portemonnee is &lt;b&gt;versleuteld&lt;/b&gt; en momenteel &lt;b&gt;gesloten&lt;/b&gt;</translation>
     </message>
     <message>
-        <source>A fatal error occurred. Anotherscryptcoin can no longer continue safely and will quit.</source>
-        <translation>Een fatale fout heeft zich voorgedaan. Anotherscryptcoin kan niet veilig worden verdergezet en wordt afgesloten.</translation>
+        <source>A fatal error occurred. AnotherScryptCoin can no longer continue safely and will quit.</source>
+        <translation>Een fatale fout heeft zich voorgedaan. AnotherScryptCoin kan niet veilig worden verdergezet en wordt afgesloten.</translation>
     </message>
 </context>
 <context>
@@ -804,8 +804,8 @@
         <translation>Bewerk verzendadres</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Anotherscryptcoin address.</source>
-        <translation>Het opgegeven adres "%1" is een ongeldig Anotherscryptcoinadres.</translation>
+        <source>The entered address "%1" is not a valid AnotherScryptCoin address.</source>
+        <translation>Het opgegeven adres "%1" is een ongeldig AnotherScryptCoinadres.</translation>
     </message>
     <message>
         <source>Address "%1" already exists as a receiving address with label "%2" and so cannot be added as a sending address.</source>
@@ -901,8 +901,8 @@
         <translation>Gebruik een aangepaste gegevensmap:</translation>
     </message>
     <message>
-        <source>Anotherscryptcoin</source>
-        <translation>Anotherscryptcoin</translation>
+        <source>AnotherScryptCoin</source>
+        <translation>AnotherScryptCoin</translation>
     </message>
     <message>
         <source>At least %1 GB of data will be stored in this directory, and it will grow over time.</source>
@@ -913,8 +913,8 @@
         <translation>Gemiddeld %1 GB aan data zal worden opgeslagen in deze map.</translation>
     </message>
     <message>
-        <source>%1 will download and store a copy of the Anotherscryptcoin block chain.</source>
-        <translation>%1 zal een kopie van de blokketen van Anotherscryptcoin downloaden en opslaan.</translation>
+        <source>%1 will download and store a copy of the AnotherScryptCoin block chain.</source>
+        <translation>%1 zal een kopie van de blokketen van AnotherScryptCoin downloaden en opslaan.</translation>
     </message>
     <message>
         <source>The wallet will also be stored in this directory.</source>
@@ -945,7 +945,7 @@
     </message>
     <message>
         <source>Recent transactions may not yet be visible, and therefore your wallet's balance might be incorrect. This information will be correct once your wallet has finished synchronizing with the anotherscryptcoin network, as detailed below.</source>
-        <translation>Recente transacties zijn mogelijk nog niet zichtbaar. De balans van de portemonnee is daarom mogelijk niet correct. Deze informatie is correct van zodra de synchronisatie met het Anotherscryptcoin-netwerk werd voltooid, zoals onderaan beschreven.</translation>
+        <translation>Recente transacties zijn mogelijk nog niet zichtbaar. De balans van de portemonnee is daarom mogelijk niet correct. Deze informatie is correct van zodra de synchronisatie met het AnotherScryptCoin-netwerk werd voltooid, zoals onderaan beschreven.</translation>
     </message>
     <message>
         <source>Attempting to spend anotherscryptcoins that are affected by not-yet-displayed transactions will not be accepted by the network.</source>
@@ -1130,8 +1130,8 @@
         <translation>&amp;Spendeer onbevestigd wisselgeld</translation>
     </message>
     <message>
-        <source>Automatically open the Anotherscryptcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Open de Anotherscryptcoinpoort automatisch op de router. Dit werkt alleen als de router UPnP ondersteunt en het aanstaat.</translation>
+        <source>Automatically open the AnotherScryptCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Open de AnotherScryptCoinpoort automatisch op de router. Dit werkt alleen als de router UPnP ondersteunt en het aanstaat.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -1146,8 +1146,8 @@
         <translation>Sta inkomende verbindingen toe</translation>
     </message>
     <message>
-        <source>Connect to the Anotherscryptcoin network through a SOCKS5 proxy.</source>
-        <translation>Verbind met het Anotherscryptcoinnetwerk via een SOCKS5 proxy.</translation>
+        <source>Connect to the AnotherScryptCoin network through a SOCKS5 proxy.</source>
+        <translation>Verbind met het AnotherScryptCoinnetwerk via een SOCKS5 proxy.</translation>
     </message>
     <message>
         <source>&amp;Connect through SOCKS5 proxy (default proxy):</source>
@@ -1182,8 +1182,8 @@
         <translation>Tor</translation>
     </message>
     <message>
-        <source>Connect to the Anotherscryptcoin network through a separate SOCKS5 proxy for Tor hidden services.</source>
-        <translation>Maak verbinding met Anotherscryptcoinnetwerk door een aparte SOCKS5-proxy voor verborgen diensten van Tor.</translation>
+        <source>Connect to the AnotherScryptCoin network through a separate SOCKS5 proxy for Tor hidden services.</source>
+        <translation>Maak verbinding met AnotherScryptCoinnetwerk door een aparte SOCKS5-proxy voor verborgen diensten van Tor.</translation>
     </message>
     <message>
         <source>&amp;Window</source>
@@ -1293,8 +1293,8 @@
         <translation>Vorm</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Anotherscryptcoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>De weergegeven informatie kan verouderd zijn. Uw portemonnee synchroniseert automatisch met het Anotherscryptcoinnetwerk nadat een verbinding is gelegd, maar dit proces is nog niet voltooid.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the AnotherScryptCoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>De weergegeven informatie kan verouderd zijn. Uw portemonnee synchroniseert automatisch met het AnotherScryptCoinnetwerk nadat een verbinding is gelegd, maar dit proces is nog niet voltooid.</translation>
     </message>
     <message>
         <source>Watch-only:</source>
@@ -1396,8 +1396,8 @@
         <translation>Ongeldig betalingsadres %1</translation>
     </message>
     <message>
-        <source>URI cannot be parsed! This can be caused by an invalid Anotherscryptcoin address or malformed URI parameters.</source>
-        <translation>URI kan niet verwerkt worden! Dit kan het gevolg zijn van een ongeldig Anotherscryptcoin adres of misvormde URI parameters.</translation>
+        <source>URI cannot be parsed! This can be caused by an invalid AnotherScryptCoin address or malformed URI parameters.</source>
+        <translation>URI kan niet verwerkt worden! Dit kan het gevolg zijn van een ongeldig AnotherScryptCoin adres of misvormde URI parameters.</translation>
     </message>
     <message>
         <source>Payment request file handling</source>
@@ -1498,8 +1498,8 @@
         <translation>Bedrag</translation>
     </message>
     <message>
-        <source>Enter a Anotherscryptcoin address (e.g. %1)</source>
-        <translation>Voer een Anotherscryptcoinadres in (bijv. %1)</translation>
+        <source>Enter a AnotherScryptCoin address (e.g. %1)</source>
+        <translation>Voer een AnotherScryptCoinadres in (bijv. %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -1954,8 +1954,8 @@
         <translation>&amp;Bericht</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Anotherscryptcoin network.</source>
-        <translation>Een optioneel bericht om bij te voegen aan het betalingsverzoek, welke zal getoond worden wanneer het verzoek is geopend. Opmerking: Het bericht zal niet worden verzonden met de betaling over het Anotherscryptcoinnetwerk.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the AnotherScryptCoin network.</source>
+        <translation>Een optioneel bericht om bij te voegen aan het betalingsverzoek, welke zal getoond worden wanneer het verzoek is geopend. Opmerking: Het bericht zal niet worden verzonden met de betaling over het AnotherScryptCoinnetwerk.</translation>
     </message>
     <message>
         <source>An optional label to associate with the new receiving address.</source>
@@ -2383,8 +2383,8 @@ Notitie: Omdat de vergoeding per byte wordt gerekend, zal een vergoeding van "10
         <translation><numerusform>Schatting is dat bevestiging begint over %n blok.</numerusform><numerusform>Schatting is dat bevestiging begint over %n blokken.</numerusform></translation>
     </message>
     <message>
-        <source>Warning: Invalid Anotherscryptcoin address</source>
-        <translation>Waarschuwing: Ongeldig Anotherscryptcoinadres</translation>
+        <source>Warning: Invalid AnotherScryptCoin address</source>
+        <translation>Waarschuwing: Ongeldig AnotherScryptCoinadres</translation>
     </message>
     <message>
         <source>Warning: Unknown change address</source>
@@ -2426,8 +2426,8 @@ Notitie: Omdat de vergoeding per byte wordt gerekend, zal een vergoeding van "10
         <translation>Dit is een normale betaling.</translation>
     </message>
     <message>
-        <source>The Anotherscryptcoin address to send the payment to</source>
-        <translation>Het Anotherscryptcoinadres om betaling aan te versturen</translation>
+        <source>The AnotherScryptCoin address to send the payment to</source>
+        <translation>Het AnotherScryptCoinadres om betaling aan te versturen</translation>
     </message>
     <message>
         <source>Alt+A</source>
@@ -2474,8 +2474,8 @@ Notitie: Omdat de vergoeding per byte wordt gerekend, zal een vergoeding van "10
         <translation>Vul een label voor dit adres in om het aan de lijst met gebruikte adressen toe te voegen</translation>
     </message>
     <message>
-        <source>A message that was attached to the anotherscryptcoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Anotherscryptcoin network.</source>
-        <translation>Een bericht dat werd toegevoegd aan de anotherscryptcoin: URI welke wordt opgeslagen met de transactie ter referentie. Opmerking: Dit bericht zal niet worden verzonden over het Anotherscryptcoinnetwerk.</translation>
+        <source>A message that was attached to the anotherscryptcoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the AnotherScryptCoin network.</source>
+        <translation>Een bericht dat werd toegevoegd aan de anotherscryptcoin: URI welke wordt opgeslagen met de transactie ter referentie. Opmerking: Dit bericht zal niet worden verzonden over het AnotherScryptCoinnetwerk.</translation>
     </message>
     <message>
         <source>Pay To:</source>
@@ -2520,11 +2520,11 @@ Notitie: Omdat de vergoeding per byte wordt gerekend, zal een vergoeding van "10
     </message>
     <message>
         <source>You can sign messages/agreements with your addresses to prove you can receive anotherscryptcoins sent to them. Be careful not to sign anything vague or random, as phishing attacks may try to trick you into signing your identity over to them. Only sign fully-detailed statements you agree to.</source>
-        <translation>U kunt berichten/overeenkomsten ondertekenen met uw adres om te bewijzen dat u Anotherscryptcoins kunt versturen. Wees voorzichtig met het ondertekenen van iets vaags of willekeurigs, omdat phishingaanvallen u kunnen proberen te misleiden tot het ondertekenen van overeenkomsten om uw identiteit aan hen toe te vertrouwen. Onderteken alleen volledig gedetailleerde verklaringen voordat u akkoord gaat.</translation>
+        <translation>U kunt berichten/overeenkomsten ondertekenen met uw adres om te bewijzen dat u AnotherScryptCoins kunt versturen. Wees voorzichtig met het ondertekenen van iets vaags of willekeurigs, omdat phishingaanvallen u kunnen proberen te misleiden tot het ondertekenen van overeenkomsten om uw identiteit aan hen toe te vertrouwen. Onderteken alleen volledig gedetailleerde verklaringen voordat u akkoord gaat.</translation>
     </message>
     <message>
-        <source>The Anotherscryptcoin address to sign the message with</source>
-        <translation>Het Anotherscryptcoinadres om bericht mee te ondertekenen</translation>
+        <source>The AnotherScryptCoin address to sign the message with</source>
+        <translation>Het AnotherScryptCoinadres om bericht mee te ondertekenen</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -2555,8 +2555,8 @@ Notitie: Omdat de vergoeding per byte wordt gerekend, zal een vergoeding van "10
         <translation>Kopieer de huidige handtekening naar het systeemklembord</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Anotherscryptcoin address</source>
-        <translation>Onderteken een bericht om te bewijzen dat u een bepaald Anotherscryptcoinadres bezit</translation>
+        <source>Sign the message to prove you own this AnotherScryptCoin address</source>
+        <translation>Onderteken een bericht om te bewijzen dat u een bepaald AnotherScryptCoinadres bezit</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -2579,12 +2579,12 @@ Notitie: Omdat de vergoeding per byte wordt gerekend, zal een vergoeding van "10
         <translation>Voer het adres van de ontvanger in, bericht (zorg ervoor dat de regeleinden, spaties, tabs etc. precies kloppen) en onderteken onderaan om het bericht te verifiëren. Wees voorzicht om niet meer in de ondertekening te lezen dan in het getekende bericht zelf, om te voorkomen dat je wordt aangevallen met een man-in-the-middle attack. Houd er mee rekening dat dit alleen de ondertekende partij bewijst met het ontvangen adres, er kan niet bewezen worden dat er een transactie heeft plaatsgevonden!</translation>
     </message>
     <message>
-        <source>The Anotherscryptcoin address the message was signed with</source>
-        <translation>Het Anotherscryptcoinadres waarmee het bericht ondertekend is</translation>
+        <source>The AnotherScryptCoin address the message was signed with</source>
+        <translation>Het AnotherScryptCoinadres waarmee het bericht ondertekend is</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Anotherscryptcoin address</source>
-        <translation>Controleer een bericht om te verifiëren dat het gespecificeerde Anotherscryptcoinadres het bericht heeft ondertekend.</translation>
+        <source>Verify the message to ensure it was signed with the specified AnotherScryptCoin address</source>
+        <translation>Controleer een bericht om te verifiëren dat het gespecificeerde AnotherScryptCoinadres het bericht heeft ondertekend.</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
@@ -3251,8 +3251,8 @@ Notitie: Omdat de vergoeding per byte wordt gerekend, zal een vergoeding van "10
         <translation>Niet mogelijk ok HTTP-server te starten. Zie debuglogboek voor details.</translation>
     </message>
     <message>
-        <source>Anotherscryptcoin Core</source>
-        <translation>Anotherscryptcoin Core</translation>
+        <source>AnotherScryptCoin Core</source>
+        <translation>AnotherScryptCoin Core</translation>
     </message>
     <message>
         <source>The %s developers</source>

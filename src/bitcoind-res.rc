@@ -16,8 +16,8 @@ BEGIN
     BEGIN
         BLOCK "040904E4" // U.S. English - multilingual (hex)
         BEGIN
-            VALUE "CompanyName",        "Anotherscryptcoin"
-            VALUE "FileDescription",    "anotherscryptcoind (Anotherscryptcoin node with a JSON-RPC server)"
+            VALUE "CompanyName",        "AnotherScryptCoin"
+            VALUE "FileDescription",    "anotherscryptcoind (AnotherScryptCoin node with a JSON-RPC server)"
             VALUE "FileVersion",        VER_FILEVERSION_STR
             VALUE "InternalName",       "anotherscryptcoind"
             VALUE "LegalCopyright",     COPYRIGHT_STR

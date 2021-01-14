@@ -16,8 +16,8 @@ BEGIN
     BEGIN
         BLOCK "040904E4" // U.S. English - multilingual (hex)
         BEGIN
-            VALUE "CompanyName",        "Anotherscryptcoin"
-            VALUE "FileDescription",    "anotherscryptcoin-tx (CLI Anotherscryptcoin transaction editor utility)"
+            VALUE "CompanyName",        "AnotherScryptCoin"
+            VALUE "FileDescription",    "anotherscryptcoin-tx (CLI AnotherScryptCoin transaction editor utility)"
             VALUE "FileVersion",        VER_FILEVERSION_STR
             VALUE "InternalName",       "anotherscryptcoin-tx"
             VALUE "LegalCopyright",     COPYRIGHT_STR

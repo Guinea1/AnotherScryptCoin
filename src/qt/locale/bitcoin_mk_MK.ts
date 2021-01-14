@@ -126,7 +126,7 @@
         <translation>Повторно индексирање на блокови од дискот...</translation>
     </message>
     <message>
-        <source>Send coins to a Anotherscryptcoin address</source>
+        <source>Send coins to a AnotherScryptCoin address</source>
         <translation>Испрати лайткоини на Биткоин адреса</translation>
     </message>
     <message>
@@ -134,7 +134,7 @@
         <translation>&amp;Потврди порака...</translation>
     </message>
     <message>
-        <source>Anotherscryptcoin</source>
+        <source>AnotherScryptCoin</source>
         <translation>Биткоин</translation>
     </message>
     <message>
@@ -287,7 +287,7 @@
 <context>
     <name>Intro</name>
     <message>
-        <source>Anotherscryptcoin</source>
+        <source>AnotherScryptCoin</source>
         <translation>Биткоин</translation>
     </message>
     <message>
@@ -577,7 +577,7 @@
 <context>
     <name>bitcoin-core</name>
     <message>
-        <source>Anotherscryptcoin Core</source>
+        <source>AnotherScryptCoin Core</source>
         <translation>Биткоин Core</translation>
     </message>
     <message>

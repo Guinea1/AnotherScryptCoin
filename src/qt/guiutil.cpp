@@ -106,7 +106,7 @@ void setupAddressWidget(QValidatedLineEdit *widget, QWidget *parent)
     widget->setFont(fixedPitchFont());
     // We don't want translators to use own addresses in translations
     // and this is the only place, where this address is supplied.
-    widget->setPlaceholderText(QObject::tr("Enter a Anotherscryptcoin address (e.g. %1)").arg(
+    widget->setPlaceholderText(QObject::tr("Enter a AnotherScryptCoin address (e.g. %1)").arg(
         QString::fromStdString(DummyAddress(Params()))));
     widget->setValidator(new BitcoinAddressEntryValidator(parent));
     widget->setCheckValidator(new BitcoinAddressCheckValidator(parent));
@@ -546,10 +546,10 @@ fs::path static StartupShortcutPath()
 {
     std::string chain = gArgs.GetChainName();
     if (chain == CBaseChainParams::MAIN)
-        return GetSpecialFolderPath(CSIDL_STARTUP) / "Anotherscryptcoin.lnk";
+        return GetSpecialFolderPath(CSIDL_STARTUP) / "AnotherScryptCoin.lnk";
     if (chain == CBaseChainParams::TESTNET) // Remove this special case when CBaseChainParams::TESTNET = "testnet4"
-        return GetSpecialFolderPath(CSIDL_STARTUP) / "Anotherscryptcoin (testnet).lnk";
-    return GetSpecialFolderPath(CSIDL_STARTUP) / strprintf("Anotherscryptcoin (%s).lnk", chain);
+        return GetSpecialFolderPath(CSIDL_STARTUP) / "AnotherScryptCoin (testnet).lnk";
+    return GetSpecialFolderPath(CSIDL_STARTUP) / strprintf("AnotherScryptCoin (%s).lnk", chain);
 }
 
 bool GetStartOnSystemStartup()
@@ -674,9 +674,9 @@ bool SetStartOnSystemStartup(bool fAutoStart)
         optionFile << "[Desktop Entry]\n";
         optionFile << "Type=Application\n";
         if (chain == CBaseChainParams::MAIN)
-            optionFile << "Name=Anotherscryptcoin\n";
+            optionFile << "Name=AnotherScryptCoin\n";
         else
-            optionFile << strprintf("Name=Anotherscryptcoin (%s)\n", chain);
+            optionFile << strprintf("Name=AnotherScryptCoin (%s)\n", chain);
         optionFile << "Exec=" << pszExePath << strprintf(" -min -testnet=%d -regtest=%d\n", gArgs.GetBoolArg("-testnet", false), gArgs.GetBoolArg("-regtest", false));
         optionFile << "Terminal=false\n";
         optionFile << "Hidden=false\n";

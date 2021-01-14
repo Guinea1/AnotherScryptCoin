@@ -66,12 +66,12 @@
         <translation>Alamat menerima</translation>
     </message>
     <message>
-        <source>These are your Anotherscryptcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Ini adalah alamat Anotherscryptcoin anda untuk mengirim pembayaran. Selalu periksa jumlah dan alamat penerima sebelum mengirim koin</translation>
+        <source>These are your AnotherScryptCoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Ini adalah alamat AnotherScryptCoin anda untuk mengirim pembayaran. Selalu periksa jumlah dan alamat penerima sebelum mengirim koin</translation>
     </message>
     <message>
-        <source>These are your Anotherscryptcoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Ini adalah alamat Anotherscryptcoin anda untuk menerima pembayaran. Disarankan untuk menggunakan alamat penerimaan baru untuk setiap transaksi</translation>
+        <source>These are your AnotherScryptCoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Ini adalah alamat AnotherScryptCoin anda untuk menerima pembayaran. Disarankan untuk menggunakan alamat penerimaan baru untuk setiap transaksi</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -342,8 +342,8 @@
         <translation>Proxy &lt;b&gt;aktif&lt;/b&gt;: %1</translation>
     </message>
     <message>
-        <source>Send coins to a Anotherscryptcoin address</source>
-        <translation>Kirim koin ke alamat Anotherscryptcoin</translation>
+        <source>Send coins to a AnotherScryptCoin address</source>
+        <translation>Kirim koin ke alamat AnotherScryptCoin</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -366,8 +366,8 @@
         <translation>&amp;Verifikasi pesan...</translation>
     </message>
     <message>
-        <source>Anotherscryptcoin</source>
-        <translation>Anotherscryptcoin</translation>
+        <source>AnotherScryptCoin</source>
+        <translation>AnotherScryptCoin</translation>
     </message>
     <message>
         <source>&amp;Send</source>
@@ -390,12 +390,12 @@
         <translation>Enkripsi private keys wallet anda</translation>
     </message>
     <message>
-        <source>Sign messages with your Anotherscryptcoin addresses to prove you own them</source>
-        <translation>Tambahkan pesan di alamat Anotherscryptcoin untuk membuktikan bahwa anda pemiliknya</translation>
+        <source>Sign messages with your AnotherScryptCoin addresses to prove you own them</source>
+        <translation>Tambahkan pesan di alamat AnotherScryptCoin untuk membuktikan bahwa anda pemiliknya</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Anotherscryptcoin addresses</source>
-        <translation>Verifikasi pesan untuk memastikan bahwa telah ditanda tangani dengan alamat Anotherscryptcoin tertentu</translation>
+        <source>Verify messages to ensure they were signed with specified AnotherScryptCoin addresses</source>
+        <translation>Verifikasi pesan untuk memastikan bahwa telah ditanda tangani dengan alamat AnotherScryptCoin tertentu</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -434,8 +434,8 @@
         <translation>opsi &amp;Command-line</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Anotherscryptcoin network</source>
-        <translation><numerusform>%n koneksi aktif pada jaringan Anotherscryptcoin</numerusform></translation>
+        <source>%n active connection(s) to AnotherScryptCoin network</source>
+        <translation><numerusform>%n koneksi aktif pada jaringan AnotherScryptCoin</numerusform></translation>
     </message>
     <message>
         <source>Indexing blocks on disk...</source>
@@ -486,8 +486,8 @@
         <translation>Address &amp;Penerima</translation>
     </message>
     <message>
-        <source>Show the %1 help message to get a list with possible Anotherscryptcoin command-line options</source>
-        <translation>Perlihatkan %1 pesan yang didapat dari daftar dengan opsi command-line Anotherscryptcoin yang memungkinkan</translation>
+        <source>Show the %1 help message to get a list with possible AnotherScryptCoin command-line options</source>
+        <translation>Perlihatkan %1 pesan yang didapat dari daftar dengan opsi command-line AnotherScryptCoin yang memungkinkan</translation>
     </message>
     <message>
         <source>&amp;Window</source>
@@ -777,8 +777,8 @@
 <context>
     <name>Intro</name>
     <message>
-        <source>Anotherscryptcoin</source>
-        <translation>Anotherscryptcoin</translation>
+        <source>AnotherScryptCoin</source>
+        <translation>AnotherScryptCoin</translation>
     </message>
     <message>
         <source>Error</source>

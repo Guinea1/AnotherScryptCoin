@@ -12,9 +12,9 @@ For example:
 
     make HOST=x86_64-w64-mingw32 -j4
 
-A prefix will be generated that's suitable for plugging into Anotherscryptcoin's
+A prefix will be generated that's suitable for plugging into AnotherScryptCoin's
 configure. In the above example, a dir named x86_64-w64-mingw32 will be
-created. To use it for Anotherscryptcoin:
+created. To use it for AnotherScryptCoin:
 
     ./configure --prefix=`pwd`/depends/x86_64-w64-mingw32
 

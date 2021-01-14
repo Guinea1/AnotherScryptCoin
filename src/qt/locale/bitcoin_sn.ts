@@ -90,8 +90,8 @@
         <translation>Vhura &amp;URI</translation>
     </message>
     <message>
-        <source>Anotherscryptcoin</source>
-        <translation>Anotherscryptcoin</translation>
+        <source>AnotherScryptCoin</source>
+        <translation>AnotherScryptCoin</translation>
     </message>
     <message>
         <source>&amp;Send</source>
@@ -153,8 +153,8 @@
 <context>
     <name>Intro</name>
     <message>
-        <source>Anotherscryptcoin</source>
-        <translation>Anotherscryptcoin</translation>
+        <source>AnotherScryptCoin</source>
+        <translation>AnotherScryptCoin</translation>
     </message>
     </context>
 <context>
@@ -182,8 +182,8 @@
         <translation>Marii </translation>
     </message>
     <message>
-        <source>Enter a Anotherscryptcoin address (e.g. %1)</source>
-        <translation>Nyora kero ye Anotherscryptcoin (sekuti %1)</translation>
+        <source>Enter a AnotherScryptCoin address (e.g. %1)</source>
+        <translation>Nyora kero ye AnotherScryptCoin (sekuti %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
