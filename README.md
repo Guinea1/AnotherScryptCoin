@@ -8,8 +8,6 @@ AnotherScryptCoin is exactly what it says it is, It's based off of Litecoin (sou
 
 Port to forward for running a node: 7143
 
-You may need to include -addnode={your external IP} in your command when starting, so that the dns seeder picks up your IP.
-
 License
 -------
 
