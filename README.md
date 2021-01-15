@@ -8,6 +8,8 @@ AnotherScryptCoin is exactly what it says it is, It's based off of Litecoin (sou
 
 Port to forward for running a node: 7143
 
+IMPORTANT: If no blocks are mined after a certain period of time, the wallets will be stuck at "Syncing Headers" despite being connected, in order to fix this, just mine a block.
+
 License
 -------
 
