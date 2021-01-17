@@ -12,6 +12,8 @@ Port to forward for running a node: 7143
 
 IMPORTANT: If no blocks are mined after a certain period of time, the wallets will be stuck at "Syncing Headers" despite being connected, in order to fix this, just mine a block.
 
+MINING: When mining be sure to use a native segwit bech32 address (check the box when creating under receive tab), otherwise your coins will end up in some other address, and I have no idea how to get them out.
+
 License
 -------
 
