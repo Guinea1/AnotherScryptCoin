@@ -1,12 +1,10 @@
 AnotherScryptCoin
 =====================================
-
+Please note that I have now archived this project, feel free to do whatever with it, but I won't be running a node for it anymore.
 What is AnotherScryptCoin?
 ----------------
 
 AnotherScryptCoin is exactly what it says it is, It's based off of Litecoin (source 0.18) and is slightly "faster". This is mostly just a fun project. Many things likely still say "Litecoin" in docs and other areas, I didn't fork Litecoin and removed the original .git folder because that caused issues when trying to push.
-
-Explorer: http://ascserver.bobbyd100.com
 
 Port to forward for running a node: 7143
 
