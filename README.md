@@ -1,6 +1,6 @@
 AnotherScryptCoin
 =====================================
-Please note that I have now archived this project, feel free to do whatever with it, but I won't be running a node for it anymore.
+Please note that I have now archived this project, feel free to do anything with it, but I won't be running a node for it anymore.
 <br>
 <br>
 What is AnotherScryptCoin?
