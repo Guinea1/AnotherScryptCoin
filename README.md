@@ -1,10 +1,6 @@
 AnotherScryptCoin
 =====================================
-Please note that I have now archived this project, feel free to do anything with it, but I won't be running a node for it anymore.
-<br>
-<br>
-Latest blocks/chainstate before node shutdown: [Here](https://github.com/Guinea1/AnotherScryptCoin/releases/download/1.0.0/ASC.zip)
-<br>
+1/7/22 - I have resurrected this project, as I now have a free server to run a node on, enjoy!
 <br>
 What is AnotherScryptCoin?
 ----------------
