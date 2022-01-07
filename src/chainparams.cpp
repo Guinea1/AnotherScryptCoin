@@ -123,7 +123,7 @@ public:
         // vSeeds.emplace_back("dnsseed.thrasher.io");
         // vSeeds.emplace_back("dnsseed.anotherscryptcointools.com");
         // vSeeds.emplace_back("dnsseed.anotherscryptcoinpool.org");
-
+        vSeeds.emplace_back("ascnode.bobbyd100.com");
         base58Prefixes[PUBKEY_ADDRESS] = std::vector<unsigned char>(1,23);
         base58Prefixes[SCRIPT_ADDRESS] = std::vector<unsigned char>(1,5);
         base58Prefixes[SCRIPT_ADDRESS2] = std::vector<unsigned char>(1,63);
