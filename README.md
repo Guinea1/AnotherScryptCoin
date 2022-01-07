@@ -2,6 +2,7 @@ AnotherScryptCoin
 =====================================
 1/7/22 - I have resurrected this project, as I now have a free server to run a node on, enjoy!
 <br>
+<br>
 What is AnotherScryptCoin?
 ----------------
 
