@@ -8,6 +8,10 @@ What is AnotherScryptCoin?
 
 AnotherScryptCoin is exactly what it says it is, It's based off of Litecoin (source 0.18) and is slightly "faster". This is mostly just a fun project. Many things likely still say "Litecoin" in docs and other areas, I didn't fork Litecoin and removed the original .git folder because that caused issues when trying to push.
 
+<b>Website: <a href="https://asc.cash">asc.cash</a></b>
+
+<b>Explorer: <a href="http://explorer.asc.cash">explorer.asc.cash</a></b>
+
 Port to forward for running a node: 7143
 
 IMPORTANT: If no blocks are mined after a certain period of time, the wallets will be stuck at "Syncing Headers" despite being connected, in order to fix this, just mine a block.
